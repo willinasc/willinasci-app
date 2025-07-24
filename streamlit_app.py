@@ -16,5 +16,5 @@ df = pd.read_csv("equipamentos.csv", sep=";")
 df = df[["TAG", "DESCRIÇÃO", "MARCA", "STATUS DE USO", "MANUTENÇÃO", "CALIBRAÇÃO", "QUALIFICAÇÃO"]]
 #st.write(df)
 df.info()
-df.describe()
+print(df.describe())
 
