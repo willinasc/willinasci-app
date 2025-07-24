@@ -6,4 +6,6 @@ st.info(
     "Acompanhamento das Manutenções, Calibrações e Qualificaçoes dos Equipamentos"
 )
 st.sidebar.title("Menu")
-st.file_uploader("Pesquisar arquivo")
+    st.file_uploader("Pesquisar arquivo")
+    b1 = st.button("Manutenção")
+    print(b1)
