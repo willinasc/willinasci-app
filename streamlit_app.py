@@ -6,7 +6,7 @@ st.info(
     "Acompanhamento das Manutenções, Calibrações e Qualificaçoes dos Equipamentos"
 )
 with st.sidebar.title("Menu"):
-    st.selectbox('Selecione', ["Planilha","Manutenção","Calibração","Qualificação"])
+    st.selectbox('Selecione', ["Equipamentos","Manutenção","Calibração","Qualificação"])
    
 st.file_uploader("Pesquisar arquivo")
 st.divider()
