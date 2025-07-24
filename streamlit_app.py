@@ -7,5 +7,6 @@ st.info(
 )
 st.sidebar.title("Menu")
 st.file_uploader("Pesquisar arquivo")
+st.divider()
 b1 = st.button("Manutenção")
 print(b1)
