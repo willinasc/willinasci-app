@@ -17,5 +17,14 @@ df_filtered = df[df["DESCRIÇÃO"] == Equipamentos]
 st.dataframe(df_filtered)
 
 
+col1, col2, col3, col4 = st.columns(4)
 
+with col1:
+    df[MANUTENÇÃO].value_counts
+with col2:
+     df[CALIBRAÇÃO].value_counts
+with col3:
+     df[QUALIFICAÇÃO].value_counts
+with col4:
+     df[MARCA].value_counts
 
