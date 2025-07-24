@@ -7,7 +7,7 @@ st.set_page_config(layout="wide")
 st.info(
     "Acompanhamento das Manutenções, Calibrações e Qualificaçoes dos Equipamentos"
 )
- with st.sidebar.title("Menu"):
+with st.sidebar.title("Menu"):
     st.selectbox('Selecione', ["Equipamentos","Manutenção","Calibração","Qualificação"])
    
        
