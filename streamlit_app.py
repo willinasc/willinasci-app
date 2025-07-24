@@ -3,7 +3,7 @@ import pandas as pd
 
 st.title("🎈 Gestão de Equipamentos Controle de Qualidade")
 st.info(
-    "Acompanhamento das Manutenções, Clibrações e Qualificaçoes dos Equipamentos"
+    "Acompanhamento das Manutenções, Calibrações e Qualificaçoes dos Equipamentos"
 )
 st.sidebar.title("Menu")
 st.file_uploader("Pesquisar arquivo")
