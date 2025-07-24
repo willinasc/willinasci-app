@@ -16,6 +16,6 @@ df = pd.read_csv("equipamentos.csv", sep=";")
 df = df[["TAG", "DESCRIÇÃO", "MARCA", "STATUS DE USO", "MANUTENÇÃO", "CALIBRAÇÃO", "QUALIFICAÇÃO"]]
 Equipamentos = st.sidebar.selectbox("selecione", df["DESCRIÇÃO"].unique())
 df_filtered = df[df["DESCRIÇÃO"] == Equipamentos]
-st.write(df)
+st.write(df_filtered)
 
 
