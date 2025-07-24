@@ -12,6 +12,6 @@ with st.sidebar.title("Menu"):
    
 st.file_uploader("Pesquisar arquivo")
 st.divider()
-df = pd.read_csv("GERENCIAMENTO DE CONTRATOS CONTROLE DE QUALIDADE.csv")
+df = pd.read_csv("equipamentos.csv")
 st.write(df)
 
