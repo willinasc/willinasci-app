@@ -9,6 +9,8 @@ st.info(
 )
 with st.sidebar.title("Menu"):
     st.selectbox('Selecione', ["Equipamentos","Manutenção","Calibração","Qualificação"])
+    Equipamentos = st.sidebar.selectbox("DESCRIÇÃO", df["DESCRIÇÃO"].unique())
+    df_filtered = df[df["DESCRIÇÃO"] == DESCRIÇÃO]
    
 st.file_uploader("Pesquisar arquivo")
 st.divider()
