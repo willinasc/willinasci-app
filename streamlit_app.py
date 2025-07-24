@@ -5,8 +5,9 @@ st.title("🎈 Gestão de Equipamentos Controle de Qualidade")
 st.info(
     "Acompanhamento das Manutenções, Calibrações e Qualificaçoes dos Equipamentos"
 )
-st.sidebar.title("Menu")
+with st.sidebar.title("Menu")
+    b1 = st.button("Manutenção")
+print(b1)
 st.file_uploader("Pesquisar arquivo")
 st.divider()
-b1 = st.button("Manutenção")
-print(b1)
+
