@@ -1,0 +1,777 @@
+PLANILHA MESTRA DE EQUIPAMENTOS GCQ - 2025;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Item;TAG;DESCRIÇÃO;SALA/BLOCO;BLOCO;MARCA;MODELO;Nº DE SÉRIE;STATUS DE USO;MÉTODO;ROTINA DE USO;STATUS DE AQUISIÇÃO;INSTALAÇÃO;MANUTENÇÃO;CALIBRAÇÃO;QUALIFICAÇÃO;HANDOVER;FORMULÁRIO;RELATÓRIO HOMOLOGADO;N° PROCESSO;N° CONTRATO;EMPRESA;COMENTÁRIOS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+1;APV-512-0001;Amostrador de Partículas viáveis;N/A;B06;PMS;Minicapt Mobile 100 LPM;169576;EM USO;Amostragem de partículas viáveis em ambiente, equipamentos e gases;SIM;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.007743/2023;51/2024;SPECTRIS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+2;APV-512-0002;Amostrador de Partículas viáveis;N/A;B06;PMS;Minicapt Mobile 100 LPM;169640;FORA DE USO;Amostragem de partículas viáveis em ambiente, equipamentos e gases;SIM;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.007743/2023;51/2024;SPECTRIS;"Sofreu uma queda e precisa trocar a carcaça que está quebrada.
+14/02: aguardando emissão de nota fiscal para envio do equipamento.
+21/02: sem retorno.
+21/03: Aguardando emissão de nota fiscal para envio dos equipamentos. Ultimo retorno em 20/03/2025";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+3;APV-512-0003;Amostrador de Partículas viáveis;N/A;B06;PMS;Minicapt Mobile 100 LPM;169642;EM USO;Amostragem de partículas viáveis em ambiente, equipamentos e gases;SIM;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.007743/2023;51/2024;SPECTRIS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+4;APV-512-0004;Amostrador de Partículas viáveis;N/A;B06;PMS;Minicapt Mobile 100 LPM;169643;EM USO;Amostragem de partículas viáveis em ambiente, equipamentos e gases;SIM;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.007743/2023;51/2024;SPECTRIS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+5;APV-512-0005;Amostrador de Partículas viáveis;N/A;B06;PMS;Minicapt Mobile 100 LPM;169644;EM USO;Amostragem de partículas viáveis em ambiente, equipamentos e gases;SIM;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.007743/2023;51/2024;SPECTRIS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+6;APV-512-0006;Amostrador de Partículas viáveis;N/A;B06;PMS;Minicapt Mobile 100 LPM;170101;EM USO;Amostragem de partículas viáveis em ambiente, equipamentos e gases;SIM;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.007743/2023;51/2024;SPECTRIS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+7;APV-512-0007;Amostrador de Partículas viáveis;N/A;B06;PMS;Minicapt Mobile 100 LPM;170104;EM USO;Amostragem de partículas viáveis em ambiente, equipamentos e gases;SIM;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.007743/2023;51/2024;SPECTRIS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+8;APV-512-0008;Amostrador de Partículas viáveis;N/A;B06;PMS;Minicapt Mobile 100 LPM;170105;EM USO;Amostragem de partículas viáveis em ambiente, equipamentos e gases;SIM;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.007743/2023;51/2024;SPECTRIS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+9;APV-512-0009;Amostrador de Partículas viáveis;N/A;B06;PMS;Minicapt Mobile 100 LPM;170106;EM USO;Amostragem de partículas viáveis em ambiente, equipamentos e gases;SIM;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.007743/2023;51/2024;SPECTRIS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+10;APV-512-0010;Amostrador de Partículas viáveis;N/A;B06;PMS;Minicapt Mobile 100 LPM;170559;EM USO;Amostragem de partículas viáveis em ambiente, equipamentos e gases;SIM;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.007743/2023;51/2024;SPECTRIS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+11;APV-512-0011;Amostrador de Partículas viáveis;N/A;B06;PMS;Minicapt Mobile 100 LPM;170612;EM USO;Amostragem de partículas viáveis em ambiente, equipamentos e gases;SIM;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.007743/2023;51/2024;SPECTRIS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+12;APV-512-0012;Amostrador de Partículas viáveis;N/A;B06;PMS;Minicapt Mobile 100 LPM;170622;FORA DE USO;Amostragem de partículas viáveis em ambiente, equipamentos e gases;SIM;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.007743/2023;51/2024;SPECTRIS;"Apresenta bateria fraca apesar de receber carga por horas e acaba se desligando sozinho por não segurar carga
+14/02: aguardando emissão de nota fiscal para envio do equipamento.
+21/02: retorno.
+21/03: Aguardando emissão de nota fiscal para envio dos equipamentos. Ultimo retorno em 20/03/2025";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+13;BAL-512-0001;Balança analítica;N125;B05;Shimadzu;AUX 220;D305020254;FORA DE USO;"FASE 2A - EMBALAGEM; 
+DILUENTE sWFI PARA HEMO8R; 
+UMIDADE HEMO8R KARL FISHER;";SIM;ADQUIRIDO;INSTALADO;SIM;SIM;SIM;N/A;N/A;N/A;;;;"Balança apresentando defeito. Necessário realizar avaliação, uma nova calibração e requalificação já que ela teve seu local alterado. Solicitamos avaliação por parte do SM antes de realizar a calibração por parte da COMPETEC. Rafael veio em 11/09 e Anderson Arndt mostrou os erros que a balança estava apresentando. No dia seguinte Rafael pediu que Héslio recolhesse a balança para avaliação no B12, mas não houve solicitação formal então Anderson não autorizou a retirada. Até o momento não houve mais atualização. Balança será enviada para empresa externa para cotação dos serviços. A balança retornou do serviço em 04/12/2024. Aguardando instalação para solicitar calibração. Calibração solicitada à Rafael em 05/12/2024. Calibração realizada, aguardando o envio do certificado de calibração para avaliação do SVC.
+21/02: previsão de execução da calibração para março
+13/03: Aguardando o SVC executar a qualificação";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+14;BM-512-0001;Banho-maria 10L;N311;B06;LABINFARMA;LIF720.10;22091255;FORA DE USO;"POTÊNCIA; 
+WB";;ADQUIRIDO;INSTALADO;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;"O equipamento parou de aquecer. O SM irá avaliar e talvez trocar a resistência. Foi solicitada abertura de PCM para conserto. 
+21/01: Getulio do SM levou o equipamento para avaliação
+19/02: equipamento com a Elimco para avaliação.
+11/06: Será enviado para a Trescal para avaliação e conserto";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+15;BPP-512-0001;Bloco padrão em aço – Classe 0;N125;B05;Mitutoyo;611641-021;130709;EM USO;FASE 2A - EMBALAGEM;SIM;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+16;BPP-512-0002;Bloco padrão em aço – Classe 0;N125;B05;Mitutoyo;611675-021;132923;EM USO;FASE 2A - EMBALAGEM;SIM;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+17;BPP-512-0003;Bloco padrão em aço – Classe 0;N125;B05;Mitutoyo;611681-021;132535;EM USO;FASE 2A - EMBALAGEM;SIM;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+18;CAP-512-0001;Capela Para Manipulação de Produtos Químicos com Filtro Carvão Ativado Interno e Armário Corta Fogo ou de Reagentes.;N119;B06;OXICAMP;CE-180;Não consta;EM USO;;;ADQUIRIDO;INSTALADO;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;21/02: aguardando corretiva por parte do SM;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+19;CAP-512-0002;Capela Para Manipulação de Produtos Químicos com Filtro Carvão Ativado Interno.;N119;B06;OXICAMP;CE-180;Não consta;EM USO;;;ADQUIRIDO;INSTALADO;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;21/02: aguardando corretiva por parte do SM;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+20;CAP-512-0003;Capela Para Manipulação de Produtos Químicos com Filtro Carvão Ativado Interno e Armário Corta Fogo ou de Reagentes.;N311;B06;OXICAMP;CE-180;Não consta;EM USO;;;ADQUIRIDO;INSTALADO;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+21;CAP-512-0004;Capela Para Manipulação de Produtos Químicos com Filtro Carvão Ativado Interno.;N311;B06;OXICAMP;CE-180;Não consta;EM USO;;;ADQUIRIDO;INSTALADO;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+22;CAP-512-0005;Capela Para Manipulação de Produtos Químicos com Filtro Carvão Ativado Interno.;N323;B06;OXICAMP;CE-180;Não consta;EM USO;;;ADQUIRIDO;INSTALADO;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;O técnico da Trescal executou a preventiva no equipamento, mas ao executar os testes de certificação da capela foi identificado um problema na exaustão. Corretiva agendada para 16/06.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+23;CLOR-512-0001;Clorímetro Portátil;N119;B06;Hanna;HI96711C;8185870;FORA DE USO;;;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;"Diagnóstico do SM: foi verificado que a emissão de luz pelo fotômetro está insuficiente,  ou o receptor de luz não recebe o sinal. Como este tipo de fotômetro é de solução embarcada,  não temos como obter apenas o  emissor/receptor, fica inviável o reparo. 
+11/06: Será enviado para a Trescal para avaliação e conserto";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+24;CONG-512-0001;Câmara de Conservação;N122;B05;Biotecno;BT 1100;2020.0598;EM USO;;;ADQUIRIDO;INSTALADO;SIM;SIM;SIM;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+25;CONG-512-0002;Câmara de Conservação;N122;B05;Biotecno;BT 1100;2020.0599;FORA DE USO;;;ADQUIRIDO;INSTALADO;SIM;SIM;SIM;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;"Equipamento retirado de uso temporariamente até que seja realizada uma nova qualificação. 
+Será aberto um CM para transferencia da câmara climática para o B06 ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+26;CP-512-0001;Contador de Partículas de 1CFM;;B06;PMS;Lasair Pro 310;168901;EM USO;Contagem de partículas totais em ambiente, equipamentos e gases;SIM;ADQUIRIDO;N/A;SIM;SIM;SIM;N/A;N/A;N/A;25800.007743/2023;51/2024;SPECTRIS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+27;CP-512-0002;Contador de Partículas de 1CFM;;B06;PMS;Lasair Pro 310;168907;EM USO;Contagem de partículas totais em ambiente, equipamentos e gases;SIM;ADQUIRIDO;N/A;SIM;SIM;SIM;N/A;N/A;N/A;25800.007743/2023;51/2024;SPECTRIS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+28;CP-512-0003;Contador de Partículas de 1CFM;;B06;PMS;Lasair Pro 310;169390;FORA DE USO;Contagem de partículas totais em ambiente, equipamentos e gases;SIM;ADQUIRIDO;N/A;SIM;SIM;SIM;N/A;N/A;N/A;25800.007743/2023;51/2024;SPECTRIS;Equipamento quebrado e colocado fora de uso. Será enviado para o conserto;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+29;CP-512-0004;Contador de Partículas de 1CFM;;B06;PMS;Lasair Pro 310;169391;EM USO;Contagem de partículas totais em ambiente, equipamentos e gases;SIM;ADQUIRIDO;N/A;SIM;SIM;SIM;N/A;N/A;N/A;25800.007743/2023;51/2024;SPECTRIS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+30;CP-512-0005;Contador de Partículas de 1CFM;;B06;PMS;Lasair Pro 310;169392;EM USO;Contagem de partículas totais em ambiente, equipamentos e gases;SIM;ADQUIRIDO;N/A;SIM;SIM;SIM;N/A;N/A;N/A;25800.007743/2023;51/2024;SPECTRIS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+31;CP-512-0006;Contador de Partículas de 1CFM;;B06;PMS;Lasair Pro 310;168923;FORA DE USO;Contagem de partículas totais em ambiente, equipamentos e gases;SIM;ADQUIRIDO;N/A;SIM;SIM;SIM;N/A;N/A;N/A;25800.007743/2023;51/2024;SPECTRIS;"Monitor aparentemente com o display queimado/tela preta
+14/02: aguardando emissão de nota fiscal para envio do equipamento.
+21/02: sem retorno.";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+32;CP-512-0007;Contador de Partículas de 1CFM;;B06;PMS;Lasair Pro 310;169384;EM USO;Contagem de partículas totais em ambiente, equipamentos e gases;SIM;ADQUIRIDO;N/A;SIM;SIM;SIM;N/A;N/A;N/A;25800.007743/2023;51/2024;SPECTRIS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+33;CP-512-0008;Contador de Partículas de 1CFM;;B06;PMS;Lasair Pro 310;169815;EM USO;Contagem de partículas totais em ambiente, equipamentos e gases;SIM;ADQUIRIDO;N/A;SIM;SIM;SIM;N/A;N/A;N/A;25800.007743/2023;51/2024;SPECTRIS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+34;CP-512-0009;Contador de Partículas de 1CFM;;B06;PMS;Lasair Pro 310;169816;EM USO;Contagem de partículas totais em ambiente, equipamentos e gases;SIM;ADQUIRIDO;N/A;SIM;SIM;SIM;N/A;N/A;N/A;25800.007743/2023;51/2024;SPECTRIS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+35;CP-512-0010;Contador de Partículas de 1CFM;;B06;PMS;Lasair Pro 310;169819;EM USO;Contagem de partículas totais em ambiente, equipamentos e gases;SIM;ADQUIRIDO;N/A;SIM;SIM;SIM;N/A;N/A;N/A;25800.007743/2023;51/2024;SPECTRIS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+36;CP-512-0011;Contador de Partículas de 1CFM;;B06;PMS;Lasair Pro 310;169820;EM USO;Contagem de partículas totais em ambiente, equipamentos e gases;SIM;ADQUIRIDO;N/A;SIM;SIM;SIM;N/A;N/A;N/A;25800.007743/2023;51/2024;SPECTRIS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+37;CP-512-0012;Contador de Partículas de 100 LPM;;B06;PMS;Lasair Pro 5100;169398;EM USO;Contagem de partículas totais em ambiente, equipamentos e gases;SIM;ADQUIRIDO;N/A;SIM;SIM;SIM;N/A;N/A;N/A;25800.007743/2023;51/2024;SPECTRIS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+38;CP-512-0013;Contador de Partículas de 100 LPM;;B06;PMS;Lasair Pro 5100;169807;EM USO;Contagem de partículas totais em ambiente, equipamentos e gases;SIM;ADQUIRIDO;N/A;SIM;SIM;SIM;N/A;N/A;N/A;25800.007743/2023;51/2024;SPECTRIS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+39;D200-01;Bomba Steritest;D200;B06;Merck;Symbio ISL;ISL635;EM USO;;;TAKEDA;INSTALADO;SIM;NÃO;NÃO;INTEGRAL;ASSINADO;N/A;25800.002805/2023;06/2024;MERCK;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+40;D200-03;Isolador;D200;B06;Getinge;Isoflex-R;3245;FORA DE USO;;;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;;;;Aguardando a definição dos critérios de aceitação para 2 instrumentos (DIMIC). Os demais instrumentos foram enviados para avaliação do SVC em 21/08/2024. Houve retorno da avaliação dos instrumentos, será necessário agendar uma reunião com SVC e DIMIC (Marília) para discutir sobre os critérios de aceitação. ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+41;D202-01;Milliflex Oasis;D202;B06;Merck;Oasis;F1NB49645 E;EM USO;Biocarga;SIM;TAKEDA;INSTALADO;SIM;NÃO;NÃO;INTEGRAL;ASSINADO;N/A;25800.002805/2023;06/2024;MERCK;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+42;D202-02;Refrigerador;D202;B06;Thermo;TSX2305SZ;1142359901220518;FORA DE USO;;SIM;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.001711/2024-92;23/2025;DATAMED LTDA.;"Qualificação térmica vencida. Aberto um RTDO 250313-0839 para que o SVC defina quais ações serão tomadas.
+11/06: Qualificação térmica executada. No aguardo da emissão dos relatórios da DATAMED";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+43;D202-03;Refrigerador;D202;B06;Thermo;TSX2305SZ;1142356301220514;FORA DE USO;Biocarga;SIM;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.001711/2024-92;23/2025;DATAMED LTDA.;"Qualificação térmica vencida. Será aberto um RTDO para que o SVC defina quais ações serão tomadas. 
+11/06: Qualificação térmica executada. No aguardo da emissão dos relatórios da DATAMED";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+44;D202-04;Cabine de Segurança Biológica;D202;B06;Thermo Scientific;1386;3004 41 355;EM USO;Biocarga;SIM;TAKEDA;INSTALADO;SIM;NÃO;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.001711/2024-92;23/2025;DATAMED LTDA.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+45;D202-05;Cabine de Segurança Biológica;D202;B06;Thermo Scientific;1386;3005 17 452;EM USO;Biocarga;SIM;TAKEDA;INSTALADO;SIM;NÃO;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.001711/2024-92;23/2025;DATAMED LTDA.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+46;D202-06;Cabine de Segurança Biológica;D202;B06;Thermo Scientific;1386;3004 41 357;EM USO;Biocarga;SIM;TAKEDA;INSTALADO;SIM;NÃO;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.001711/2024-92;23/2025;DATAMED LTDA.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+47;D202-07;Cabine de Segurança Biológica;D202;B06;Thermo Scientific;1386;3004 47 761;EM USO;Biocarga;SIM;TAKEDA;INSTALADO;SIM;NÃO;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.001711/2024-92;23/2025;DATAMED LTDA.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+48;D202-08;Milliflex Oasis;D202;B06;Merck;Oasis;F1NB48345 E;EM USO;Biocarga;SIM;TAKEDA;INSTALADO;SIM;NÃO;NÃO;INTEGRAL;ASSINADO;N/A;25800.002805/2023;06/2024;MERCK;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+49;D202-09;Manifold EZ-Fit;D202;B06;Merck;EZ-FIT;BM3DB4828;EM USO;;;ADQUIRIDO;INSTALADO;NÃO;NÃO;NÃO;N/A;N/A;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+50;DTL-106-0180;Registrador de temperatura e umidade;N110;B06;Testo;174H;37359805;EM USO;;;EMPRESTADO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+51;ESP-512-0001;Espectrômetro - ICP-OES;N121;B06;Agilent;5800;MY2240CQ20;EM USO;;;ADQUIRIDO;INSTALADO;SIM;NÃO;SIM;N/A;N/A;N/A;25800.008005/2023;21/2024;AGILENT;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+52;GEN-01;Agitador orbital;N311;B06;Dlab;SK-0180-S;SN21AAM0000117;EM USO;SDS-PAGE;;TAKEDA;INSTALADO;SIM;NÃO;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+53;GEN-02;Agitador orbital;N311;B06;Dlab;SK-0180-S;SN21AAM0000130;EM USO;SDS-PAGE;;TAKEDA;INSTALADO;SIM;NÃO;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+54;GEN-03;Agitador orbital;N311;B06;Dlab;SK-0180-Pro;SA223AF0000099;EM USO;SDS-PAGE;;TAKEDA;INSTALADO;SIM;NÃO;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+55;GEN-04;Agitador orbital;N311;B06;Dlab;SK-0180-Pro;SA223AF0000093;EM USO;SDS-PAGE;;TAKEDA;INSTALADO;SIM;NÃO;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+56;GEN-05;Vortex;N311;B06;SI Industries;SI-0256;2E5-262565;EM USO;"Determinação dos Agregados de Proteínas;
+Determinação de Tris e Histidina; 
+ n-glicanos em rFVIII; 
+TTT ";;TAKEDA;INSTALADO;SIM;NÃO;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+57;GEN-06;Vortex;N311;B06;SI Industries;SI-0256;2E5-262544;EM USO;"POTÊNCIA;
+SDS-PAGE; 
+WB;
+Determinação dos Agregados de Proteínas; 
+Determinação de Tris e Histidina;
+n-glicanos em rFVIII; 
+TTT ";;TAKEDA;INSTALADO;SIM;NÃO;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+58;GEN-07;Vortex;N305;B06;SI Industries;SI-0256;2E5-262547;EM USO;Biocarga;SIM;TAKEDA;INSTALADO;SIM;NÃO;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+59;GEN-08;Vortex;N310;B06;SI Industries;SI-0256;2E5-261201;EM USO;;SIM;TAKEDA;INSTALADO;SIM;NÃO;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+60;GEN-09;Timer Digital;N311;B06;Fisher;15-081-120;210935762;EM USO;;;TAKEDA;N/A;SIM;SIM;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+61;GEN-10;Timer Digital;N311;B06;Fisher;15-081-120;210935839;EM USO;;;TAKEDA;N/A;SIM;SIM;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+62;GEN-11;Timer Digital;N311;B06;Fisher;15-081-120;210935520;EM USO;;;TAKEDA;N/A;SIM;SIM;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+63;GEN-12;Timer Digital;N311;B06;Fisher;15-081-120;210935667;EM USO;;;TAKEDA;N/A;SIM;SIM;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+64;GEN-13;Agitador magnético;N311;B06;DLab;MS-M-S10;ME205AJ0000178;EM USO;"ANÁLISE DE AP, API E VP; 
+Determinação dos Agregados de Proteínas; 
+Fator VIII recombinante em BDS; 
+n-glicanos em rFVIII; 
+TTT  ";SIM;TAKEDA;INSTALADO;SIM;NÃO;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+65;GEN-14;Agitador magnético;N311;B06;DLab;MS-M-S10;ME216AM0000436;EM USO;"ANÁLISE DE AP, API E VP; 
+Petermn/ação dos Amregados de Proteínas; 
+Fator VIII recombinante em BDS; 
+n-glicanos em rFVIII; 
+TTT ";SIM;TAKEDA;INSTALADO;SIM;NÃO;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+66;GEN-15;Agitador magnético;N311;B06;DLab;MS-H-S10;MF21AAL0000025;EM USO;"ANÁLISE DE AP, API E VP; 
+Determinação dos Agregados de Proteínas; 
+Fator VIII recombinante em BDS;
+n-glicanos em rFVIII;  
+TTT";SIM;TAKEDA;INSTALADO;SIM;NÃO;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+67;GEN-16;Agitador magnético;N311;B06;DLab;MS-H-S10;MF228AN0000101;EM USO;"ANÁLISE DE AP, API E VP; 
+Determinação dos Agregados de Proteínas; 
+Fator VIII recombinante em BDS; 
+n-glicanos em rFVIII; 
+TTT  ";SIM;TAKEDA;INSTALADO;SIM;NÃO;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+68;GEN-17;Termômetro Digital;N311;B06;Fisher;15-077-08 11705843;210704383;EM USO;"ANÁLISE DE AP, API E VP;
+pH do BDS;
+pH DO HEMO-8r; 
+Fator VIII recombinante em BDS";SIM;TAKEDA;N/A;SIM;SIM;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+69;GEN-18;Termômetro Digital;N311;B06;Fisher;15-077-08 11705843;210785313;EM USO;"ANÁLISE DE AP, API E VP;
+pH do BDS;
+pH DO HEMO-8r; 
+Fator VIII recombinante em BDS";SIM;TAKEDA;N/A;SIM;SIM;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+70;GEN-19;PLA Analysis Software;N311;B06;Stegmann Systems;PLA 3.0 seat license;Não consta;EM USO;POTÊNCIA;;TAKEDA;INSTALADO;NÃO;NÃO;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+71;GEN-21;Termômetro Digital de alta precisão;N311;B06;Fisher;15-081-102 15234016;210676566;FORA DE USO;"ANÁLISE DE AP, API E VP; 
+pH do BDS; 
+pH DO HEMO-8r; 
+Fator VIII recombinante em BDS";SIM;TAKEDA;N/A;SIM;SIM;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;"Instrumento calibrado. No aguardo do envio do certificado para avaliação do SVC.
+21/02: Cobrado ao SM
+13/03: Cobrado ao SM
+11/06: O instrumento será enviado à TRESCAL para calibração";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+72;GEN-22;Cronômetro digital;1N311;B06;Fisher;14-649-17 11745863;211020378;EM USO;"ANÁLISE DE AP, API E VP; 
+APARÊNCIA DO BDS; 
+APARÊNCIA E SOLUB. HEMO8R; 
+DILUENTE sWFI PARA HEMO8R; 
+POTÊNCIA;
+SDS-PAGE; 
+WB; 
+Determinação dos Agregados de Proteínas;
+Determinação de Tris e Histidina; 
+Manitol e Trealose; 
+Fator VIII recombinante em BDS; 
+n-glicanos em rFVIII ";SIM;TAKEDA;N/A;SIM;SIM;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+73;GEN-24;Manifold de extração em fase sólida (vacuum filtration - Solid phase model 12 racks);N311;B06;Supelco;Visiprev 12;Não consta;FORA DE USO;"SDS-PAGE;
+GLUTATIONA; 
+WB; 
+Determinação dos Agregados de Proteínas; 
+Manitol e Trealose; 
+TTT";;TAKEDA;INSTALADO;SIM;SIM;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;Os vacuômetros foram reprovados e o equipamento está fora de uso. Vamos avaliar a retirada do equipamento do plano de calibração, pois não se trata de um equipamento crítico.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+74;GEN-25;Cronômetro digital;N311;B06;Fisher;14-649-17 11745863;211018483;EM USO;"ANÁLISE DE AP, API E VP; 
+APARÊNCIA DO BDS; 
+APARÊNCIA E SOLUB. HEMO8R; 
+DILUENTE sWFI PARA HEMO8R; 
+Determinação dos Agregados de Proteínas;
+Determinação de Tris e Histidina; 
+Manitol e Trealose; 
+Fator VIII recombinante em BDS; 
+n-glicanos em rFVIII ";SIM;TAKEDA;N/A;SIM;SIM;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+75;GEN-29;Termômetro Digital;;B06;Fisher;15-077-8 11705843;210785295;EM USO;"ANÁLISE DE AP, API E VP; 
+pH do BDS;
+pH DO HEMO-8r; 
+Fator VIII recombinante em BDS";SIM;TAKEDA;N/A;SIM;SIM;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+76;GEN-30;Termômetro Digital;;B06;Fisher;15-077-08 11705843;210704293;EM USO;"ANÁLISE DE AP, API E VP;
+pH do BDS;
+pH DO HEMO-8r;
+POTÊNCIA; 
+Fator VIII recombinante em BDS";SIM;TAKEDA;N/A;SIM;SIM;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+77;GEN-31;Termômetro Digital;N311;B06;Fisher;15-077-08 11705843;210785298;EM USO;"ANÁLISE DE AP, API E VP;
+pH do BDS;
+pH DO HEMO-8r; 
+Fator VIII recombinante em BDS";SIM;TAKEDA;N/A;SIM;SIM;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+78;GEN-32;Termômetro Digital;;B06;Fisher;15-077-8 11705843;210704455;EM USO;"ANÁLISE DE AP, API E VP;
+pH do BDS;
+pH DO HEMO-8r; 
+Fator VIII recombinante em BDS";SIM;TAKEDA;N/A;SIM;SIM;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+79;GEN-33;Termômetro Digital;N311;B06;Fisher;15-077-08 11705843;210785294;EM USO;"ANÁLISE DE AP, API E VP;
+pH do BDS; 
+pH DO HEMO-8r; 
+Fator VIII recombinante em BDS";SIM;TAKEDA;N/A;SIM;SIM;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+80;GSI-512-0001;Guilhotina semi-industrial tamanho A3;N125;B06;Menno;858;Não Consta;EM USO;FASE 2A - EMBALAGEM;SIM;ADQUIRIDO;INSTALADO;NÃO;NÃO;NÃO;N/A;N/A;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+81;KI-512-0001;Timer Digital;N310;B06;Incoterm;Timer 3T;T-TIM-0020.00-01;EM USO;;;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+82;KI-512-0002;Timer Digital;N310;B06;Incoterm;Timer 3T;T-TIM-0020.00-02;EM USO;;SIM;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+83;KI-512-0003;Timer Digital;N100;B06;Incoterm;Timer 3 tempos digital;T-TIM-0020.00-03;EM USO;;;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+84;KI-512-0004;Timer Digital;N100;B06;Incoterm;Timer 3 tempos digital;T-TIM-0020.00-04;EM USO;;;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+85;KI-512-0005;Timer Digital;N100;B06;Incoterm;Timer 3 tempos digital;T-TIM-0020.00-05;EM USO;;;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+86;KI-512-0006;Timer Digital;N100;B06;Incoterm;Timer 3 tempos digital;T-TIM-0020.00-06;EM USO;;;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+87;KI-512-0007;Timer Digital;N100;B06;Incoterm;Timer 3 tempos digital;T-TIM-0020.00-07;EM USO;;;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+88;KI-512-0008;Timer Digital;N100;B06;Incoterm;Timer 3 tempos digital;T-TIM-0020.00-08;EM USO;;;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+89;KI-512-0009;Timer Digital;N100;B06;Incoterm;Timer 3 tempos digital;T-TIM-0020.00-09;EM USO;;;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+90;KI-512-0010;Timer Digital;N100;B06;Incoterm;Timer 3 tempos digital;T-TIM-0020.00-10;EM USO;;;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+91;KI-512-0011;Timer Digital ;N100;B06;VWR;Não Consta;210059296;FORA DE USO;;;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;Verificar com a OPL a necessidade de calibração desse instrumento.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+92;LCB-512-0001;Leitor de código de barras (1D e 2D);N125;B06;Motorola;DS4208;13352010500675   ;EM USO;FASE 2A - EMBALAGEM;SIM;ADQUIRIDO;INSTALADO;NÃO;NÃO;NÃO;N/A;N/A;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+93;LUX-512-0001;Luxímetro;N119;B06;Tenmars;TM-209M;190801115;OBSOLETO;;;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;;;;O equipamento foi reprovado na calibração e está fora de uso;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+94;LUX-512-0002;Luxímetro;N119;B06;Tenmars;TM-209M;190801131;OBSOLETO;;;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;;;;O equipamento foi reprovado na calibração e está fora de uso;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+95;LUX-512-0003;Luxímetro;N119;B06;Minipa;MLM-1011;3326142;EM USO;"ANÁLISE DE AP, API E VP; 
+APARÊNCIA DO BDS; 
+APARÊNCIA E SOLUB. HEMO8R; 
+DILUENTE sWFI PARA HEMO8R";SIM;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+96;LUX-512-0004;Luxímetro;N119;B06;Minipa;MLM-1011;3326117;EM USO;"ANÁLISE DE AP, API E VP; 
+APARÊNCIA DO BDS; 
+APARÊNCIA E SOLUB. HEMO8R; 
+DILUENTE sWFI PARA HEMO8R";SIM;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+97;MED-511-0001;Micrômetro Externo Digital;N125;B06;Insize;IP65;180882545;EM USO;FASE 2A - EMBALAGEM;SIM;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+98;N116-01;Lavadora de Vidrarias;N116;B06;Getinge;Ultima 820 LX;22C06022;EM USO;;;TAKEDA;INSTALADO;SIM;SIM;NÃO;INTEGRAL;ASSINADO;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+99;N116-02;Purificador de água Milli-Q (lavadora de vidrarias);N116;B06;Merck;IX 7015;F1EB01727A;EM USO;;;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;N/A;25800.002805/2023;06/2024;MERCK;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+100;N119-01;Sistema de água ultrapura (Milli-Q);N119;B06;Merck;IQ 7010;F1KB21017A;EM USO;"ANÁLISE DE AP, API E VP; 
+APARÊNCIA DO BDS; 
+APARÊNCIA E SOLUB. HEMO8R; 
+DILUENTE sWFI PARA HEMO8R; 
+pH do BDS; 
+n-glicanos em rFVIII ";SIM;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.002805/2023;06/2024;MERCK;Corretiva sendo realizada em 31/01/2025.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+101;N119-02;Centrífuga;N119;B06;Thermo;Fresco 21;42885791;EM USO;n-glicanos em rFVIII ;;TAKEDA;INSTALADO;SIM;SIM;NÃO;INTEGRAL;ASSINADO;N/A;25800.001711/2024-92;23/2025;DATAMED LTDA.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+102;N119-03;Balança de Bancada;N119;B06;Mettler Toledo;ICS685K-3;C146972164;EM USO;;;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.002409/2023;20/2024;METTLER;Aguardando elaboração do relatório de requalificação (Will/Amanda).;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+103;N119-04;Balança de Bancada;N119;B06;Mettler Toledo;ICS685K-3;C146972165;EM USO;;;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.002409/2023;20/2024;METTLER;Aguardando elaboração do relatório de requalificação (Will/Amanda).;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+104;N119-05;Refrigerador;N119;B06;Thermo;TSX2305SZ;1142358501220514;FORA DE USO;"Determinação dos Agregados de Proteínas; 
+Determinação de Tris e Histidina; 
+Manitol e Trealose;  
+Fator VIII recombinante em BDS;
+n-glicanos em rFVIII; 
+TTT";;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.001711/2024-92;23/2025;DATAMED LTDA.;"Qualificação térmica vencida. Aberto um RTDO 250313-0839 para que o SVC defina quais ações serão tomadas.
+11/06: Qualificação térmica executada. No aguardo da emissão dos relatórios da DATAMED";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+105;N119-06;Refrigerador;N119;B06;Thermo;TSX2305SZ;1142357201220514;FORA DE USO;"Determinação dos Agregados de Proteínas;
+Determinação de Tris e Histidina; 
+Manitol e Trealose; 
+Fator VIII recombinante em BDS; 
+n-glicanos em Rfviii; 
+TTT  ";;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.001711/2024-92;23/2025;DATAMED LTDA.;"Qualificação térmica vencida. Aberto um RTDO 250313-0839 para que o SVC defina quais ações serão tomadas.
+11/06: Qualificação térmica executada. No aguardo da emissão dos relatórios da DATAMED";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+106;N119-08;Freezer (-25 a -15°C);N310;B06;Thermo;TSX1230FZ;1132574601210503;FORA DE USO;n-glicanos em rFVIII ;;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.001711/2024-92;23/2025;DATAMED LTDA.;Qualificação térmica vencida. Será aberto um RTDO para que o SVC defina quais ações serão tomadas.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+107;N119-09;Chapa aquecedora;N119;B06;Fisher;MS7-H550-PRO;MN21CAX0000489;EM USO;"GLUTATIONA; 
+WB";;TAKEDA;INSTALADO;SIM;NÃO;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+108;N119-10;Chapa aquecedora;N119;B06;Fisher;MS7-H550-PRO;MN21CAX0000475;EM USO;;;TAKEDA;INSTALADO;SIM;NÃO;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+109;N119-11;Analisador de TOC;N119;B06;Sievers;M9;22017226;EM USO;ANÁLISE DE AP, API E VP;SIM;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.004579/2023;19/2024;POLICONTROL;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+110;N119-12;Analisador de TOC;N119;B06;Sievers;M9;22027231;EM USO;ANÁLISE DE AP, API E VP;SIM;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.004579/2023;19/2024;POLICONTROL;Aguardando aprovação do relatório de qualificação no stardoc.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+111;N119-14;Banho ultrassônico;N119;B06;Fisher;CPX8800HE;BIG042278810D;EM USO;pH do BDS;;TAKEDA;INSTALADO;SIM;NÃO;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+112;N119-15;Banho-maria (37°C ±1°C);N119;B06;Polyscience;WBE05;E12240342;EM USO;Fator VIII recombinante em BDS;;TAKEDA;INSTALADO;SIM;SIM;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+113;N119-16;Banho-maria;N119;B06;Polyscience;MX07R-20-A13D;2205-02026;EM USO;"Determinação de Tris e Histidina; 
+Manitol e Trealose";SIM;TAKEDA;INSTALADO;SIM;SIM;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+114;N119-17;Polarimetro Digital;N119;B06;Kruss;P8000-T;4180150227;EM USO;;;TAKEDA;INSTALADO;SIM;NÃO;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+115;N119-18;HPTLC – Cromatografia em Camada Delgada de Alta Eficiência;N119;B06;CAMAG;ATS4 / VisionCATS ver Básica;261004;EM USO;;;TAKEDA;INSTALADO;SIM;NÃO;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.001819/2024;17/2024;CAMAG / AUTEC;Aguardando homologação do relatório de requalificação (Williamis);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+116;N119-20;Refratômetro digital;N119;B06;Kruss;AR2008;2200810852;EM USO;;;TAKEDA;INSTALADO;SIM;NÃO;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+117;N119-21;Ponto de fusão;N119;B06;Kruss;M3000;2202051113;EM USO;;;TAKEDA;INSTALADO;SIM;NÃO;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+118;N119-22;Mufla;N119;B06;Nabertherm;L3/12;424944;FORA DE USO;;;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.001578/2024;24/2025;Mec-Q / Trescal;"Qualificação térmica vencida. Aguardando execução de nova qualificação
+11/06: Solicitada a elaboração dos protocolos de qualificação à TRESCAL";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+119;N119-23;Infravermelho (IR);N119;B06;Perkin Elmer;Spectrum Two / Spectrum 10ES Software ZnSe;119951;EM USO;;;TAKEDA;INSTALADO;SIM;NÃO;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.000795/2024;34/2024;PERKINELMER;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+120;N119-24;Bico de Bunsen elétrico;N119;B06;Cole-Parmer;MC5;M035200/18;EM USO;;;TAKEDA;INSTALADO;NÃO;NÃO;NÃO;INTEGRAL;ASSINADO;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+121;N119-25;Estufa;N119;B06;Thermo;OMH60 62L;43008777;FORA DE USO;UMIDADE HEMO8R KARL FISHER;;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.001711/2024-92;23/2025;DATAMED LTDA.;Qualificação térmica vencida. Será aberto um RTDO para que o SVC defina quais ações serão tomadas.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+122;N119-27;Contador de partículas;N119;B06;HIAC;9703+ C/ HRLD150;2204251011;FORA DE USO;;;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.000453/2024-27;38/2025;DAFRA TECHNOLOGIES;Aguardando reunião de kick-off para agendamento dos serviços.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+123;N119-28;Titulador Automático;N119;B06;Metrohm;Titrando 888;1900001041239;EM USO;;;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.006163/2023;42/2024;METROHM;O equipamento foi calibrado pela Metrohm. Aguardando avaliação do SVC. Será necessário revisar o plano de calibração.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+124;N119-29;Ultra-freezer;N119;B06;Thermo;TSX60086D;1125968301220602;FORA DE USO;"Determinação dos Agregados de Proteínas; 
+Fator VIII recombinante em BDS ;
+n-glicanos em rFVIII; 
+TTT ";;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.001711/2024-92;23/2025;DATAMED LTDA.;"Qualificação térmica vencida. Aberto um RTDO 250313-0839 para que o SVC defina quais ações serão tomadas.
+11/06: Aguardando a execução da qualificação térmica pela DATAMED";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+125;N119-30;Titulador Karl Fischer;N119;B06;Metrohm;Titrando 852;1803001049514;EM USO;UMIDADE HEMO8R KARL FISHER;;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.006163/2023;42/2024;METROHM;O equipamento foi calibrado pela Metrohm. Aguardando retorno do SVC.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+126;N119-31;Turbidímetro Portátil;1N119;B06;PoliControl;AP2000 WT;22084313;FORA DE USO;;;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;"Aguardando assinatura do contrato com a Mec-Q para execução do serviço.
+11/06: Aguardando emissão da nota fiscal para envio do equipamento para calibração na Trescal";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+127;N119-33;Termostato de circulação;N119;B06;Kruss;PT80;2508010182;EM USO;;;TAKEDA;INSTALADO;SIM;NÃO;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+128;N119-34;Bomba de vácuo;N311;B06;SOLAB;SL - 61;14090026;EM USO;DILUENTE sWFI PARA HEMO8R;;ADQUIRIDO;INSTALADO;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+129;N119-35;Bomba de vácuo;N311;B06;SOLAB;SL - 61;14090027;EM USO;"DILUENTE sWFI PARA HEMO8R; 
+pH do BDS";;ADQUIRIDO;INSTALADO;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+130;N121-01;Balança Analítica;N119;B06;Mettler Toledo;XSR205DU;C203415567;EM USO;"ANÁLISE DE AP, API E VP;
+DILUENTE sWFI PARA HEMO8R; 
+UMIDADE HEMO8R KARL FISHER; 
+Determinação dos Agregados de Proteínas; 
+Determinação de Tris e Histidina;
+Manitol e Trealose; 
+Fator VIII recombinante em BDS; 
+ n-glicanos em rFVIII; 
+TTT  ";SIM;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.002409/2023;20/2024;METTLER;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+131;N121-02;Balança Analítica;N119;B06;Mettler Toledo;XSR205DU;C206530083;EM USO;"FASE 2A - EMBALAGEM;
+ANÁLISE DE AP, API E VP;
+DILUENTE sWFI PARA HEMO8R; 
+UMIDADE HEMO8R KARL FISHER; 
+Determinação dos Agregados de Proteínas; 
+Determinação de Tris e Histidina; 
+Manitol e Trealose; 
+Fator VIII recombinante em BDS; 
+ n-glicanos em rFVIII; 
+TTT  ";SIM;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.002409/2023;20/2024;METTLER;Aguardando elaboração do relatório de requalificação (Will/Amanda).;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+132;N121-03;Microbalança;N311;B06;Mettler Toledo;XPR36DR/A;C148082844;EM USO;ANÁLISE DE AP, API E VP;;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.002409/2023;20/2024;METTLER;Aguardando homologação do relatório de requalificação (SVC).;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+133;N121-04;Microbalança;N119;B06;Mettler Toledo;XPR36DR/A;C148082843;EM USO;ANÁLISE DE AP, API E VP;;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.002409/2023;20/2024;METTLER;Aguardando homologação do relatório de requalificação (SVC).;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+134;N201-01;Autoclave de Descontaminação;N201;B06;Steris;6612-N-D-E+decF-BPS-S7;COA44926;FORA DE USO;;;TAKEDA;INSTALADO;SIM;SIM;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;Calibração vencida. Aguardando assinatura do contrato para calibração.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+135;N201-02;Purificador de água Milli-Q (autoclave de descontaminação);N201;B06;Merck;IX 7015;F2HB79316 K;EM USO;;;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;N/A;25800.002805/2023;06/2024;MERCK;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+136;N300-02;Incubadora 56 a 58ºC (bioindicadores);N300;B06;Thermo;IMH60;43026948;FORA DE USO;Biocarga;SIM;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.001711/2024-92;23/2025;DATAMED LTDA.;"Qualificação térmica vencida. Aberto um RTDO 250313-0839 para que o SVC defina quais ações serão tomadas.
+11/06: foi identificado que a incubadora está sendo utilizada em um setpoint diferente do que foi realizada a qualificação térmica. Será necessário realizar uma nova qualificação no setpoint correto (será aproveitada a QO inicial e realizadas uma nova QO e QD)";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+137;N300-03;Incubadora 20-25°C;N300;B06;Thermo;3940;300530764;FORA DE USO;Biocarga;SIM;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.001711/2024-92;23/2025;DATAMED LTDA.;Qualificação térmica vencida. Será aberto um RTDO para que o SVC defina quais ações serão tomadas.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+138;N300-04;Incubadora 20-25°C;N300;B06;Thermo;3940;300530765;FORA DE USO;Biocarga;SIM;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.001711/2024-92;23/2025;DATAMED LTDA.;Qualificação térmica vencida. Será aberto um RTDO para que o SVC defina quais ações serão tomadas.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+139;N300-05;Incubadora 30-35°C;N300;B06;Thermo;3940;300531263;FORA DE USO;Biocarga;SIM;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.001711/2024-92;23/2025;DATAMED LTDA.;Qualificação térmica vencida. Será aberto um RTDO para que o SVC defina quais ações serão tomadas.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+140;N300-06;Incubadora 30-35°C;N300;B06;Thermo;3940;300531113;FORA DE USO;Biocarga;SIM;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.001711/2024-92;23/2025;DATAMED LTDA.;Qualificação térmica vencida. Será aberto um RTDO para que o SVC defina quais ações serão tomadas.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+141;N300-09;Cabine de Segurança Biológica;N300;B06;Thermo Scientific;1386;3005 15 993;EM USO;Biocarga;SIM;TAKEDA;INSTALADO;SIM;NÃO;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.001711/2024-92;23/2025;DATAMED LTDA.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+142;N300-10;Mini Incubadora 3M  ATTEST;N300;B06;3M;Auto-reader 390;332582;EM USO;;;TAKEDA;N/A;SIM;NÃO;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+143;N300-11;Contador Eletrônico de Colônias;N300;B06;Quimis;Q295B;AF031293;EM USO;Biocarga;SIM;ADQUIRIDO;INSTALADO;NÃO;NÃO;NÃO;N/A;N/A;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+144;N300-12;Contador Eletrônico de Colônias;N300;B06;Quimis;Q295B;AF031294;EM USO;Biocarga;SIM;ADQUIRIDO;INSTALADO;NÃO;NÃO;NÃO;N/A;N/A;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+145;N300-13;Camara Escura Ultravioleta ;N300;B06;SOLAB;SL-204;24040003;EM USO;Biocarga;SIM;ADQUIRIDO;INSTALADO;NÃO;SIM;NÃO;N/A;N/A;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+146;N303-01;Autoclave (test);N303;B06;Steris;666-N-B-E+DECF-BSP-S7;COA44927;FORA DE USO;;;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.001578/2024;24/2025;Mec-Q / Trescal;Calibração vencida. Aguardando assinatura do contrato para calibração.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+147;N303-02;Purificador de água Milli-Q (autoclave);N303;B06;Merck;IX 7015;F2AB11749G;EM USO;;;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.002805/2023;06/2024;MERCK;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+148;N303-03;Forno de despirogenização;N303;B06;Binder;FP115;20220000002192;EM USO;;;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.001578/2024;24/2025;Mec-Q / Trescal;Qualificação térmica vencida. Aguardando execução de nova qualificação;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+149;N305-01;Refrigerador;N305;B06;Thermo;TSX2305SZ;1142486901220616;FORA DE USO;Biocarga;SIM;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.001711/2024-92;23/2025;DATAMED LTDA.;Qualificação térmica vencida. Será aberto um RTDO para que o SVC defina quais ações serão tomadas.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+150;N305-02;Aparelho de Identificação Microbiana;N305;B06;Biomérieux;Viteck 2 Compact;VK2C20877;EM USO;;;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.000219/2024-08;115/2024;Biomérieux;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+151;N305-03;Microscópio;N305;B06;Optika;K223;19032705;EM USO;;;TAKEDA;INSTALADO;SIM;NÃO;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+152;N305-04;Freezer (-25 a -15°C);N305;B06;Thermo;TSX1230FZ;1141546201211110;FORA DE USO;;;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.001711/2024-92;23/2025;DATAMED LTDA.;Qualificação térmica vencida. Será aberto um RTDO para que o SVC defina quais ações serão tomadas.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+153;N305-05;Sistema autorizado para coloração de Gram;N305;B06;VYTTRA diagnósticos;SlideInk Gram;G2010;EM USO;;;ADQUIRIDO;INSTALADO;NÃO;NÃO;NÃO;N/A;N/A;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+154;N305-06;Densitômetro automatizado para sistemas VITEK 2;N305;B06;Biomérieux;Densi CHECK Plus;0A044073;EM USO;Biocarga;SIM;TAKEDA;INSTALADO;NÃO;NÃO;NÃO;N/A;N/A;N/A;25800.000219/2024-08;115/2024;Biomérieux;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+155;N309-01;Medidor de traços de óleo em ar comprimido;N309;B06;Dräger;Aerotest Alpha;ARRL-0017;EM USO;Deteção de óleo em gases;SIM;ADQUIRIDO;N/A;SIM;NÃO;NÃO;N/A;N/A;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+156;N309-02;Medidor de traços de óleo em ar comprimido;N309;B06;Dräger;Aerotest Alpha;ARSH-0003;EM USO;Deteção de óleo em gases;SIM;ADQUIRIDO;N/A;SIM;NÃO;NÃO;N/A;N/A;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+157;N310-03;Banho-maria (37°C ± 1°C);N310;B06;Polyscience;WB05;W21550835;FORA DE USO;SDS-PAGE;SIM;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.001578/2024;24/2025;Mec-Q / Trescal;"Qualificação térmica vencida. Aberto um RTDO 250313-0839 para que o SVC defina quais ações serão tomadas.
+11/06: Aguardando a execução da qualificação térmica pela Trescal";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+158;N310-AGI-001;Agitador Vórtex Analógico Multi-tube;N310;B06;OHAUS;VXMTAL;C4I3833569;EM USO;;;ADQUIRIDO;N/A;SIM;NÃO;NÃO;N/A;N/A;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+159;N311-01;Balança de Bancada;N311;B06;Mettler Toledo;ICS685K-3;C146972166;FORA DE USO;;;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.002409/2023;20/2024;METTLER;Balança quebrada no incidente de vazamento no laboratório. Sem previsão de conserto.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+160;N311-03;Fonte para Eletroforese Power Pac Basic ;N311;B06;Biorad;Power Pac Basic;041BR322529;EM USO;"SDS-PAGE; 
+WB";;TAKEDA;INSTALADO;NÃO;NÃO;NÃO;INTEGRAL;ASSINADO;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+161;N311-04;Leitor de microplacas;N311;B06;Tecan;Infinite M200 Pro;2210015215;EM USO;;;TAKEDA;INSTALADO;SIM;NÃO;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.004672/2024;20/2025;RCHISTO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+162;N311-05;Lavadora de microplacas;N311;B06;Tecan;Hydroflex;2211002606;EM USO;;;TAKEDA;INSTALADO;SIM;NÃO;NÃO;INTEGRAL;ASSINADO;N/A;25800.004672/2024;20/2025;RCHISTO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+163;N311-08;Incubadora (37°C ± 2°C);N311;B06;Thermo;IMH60;42935112;FORA DE USO;"POTÊNCIA; 
+Determinação de Tris e Histidina; 
+Fator VIII recombinante em BDS";;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.001711/2024-92;23/2025;DATAMED LTDA.;Qualificação térmica vencida. Aberto um RTDO 250313-0839 para que o SVC defina quais ações serão tomadas.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+164;N311-09;Eletroforese Xcell II Mini-Cell;N311;B06;Thermo;EI0001;15771700;EM USO;"SDS-PAGE; 
+WB ";;TAKEDA;INSTALADO;NÃO;NÃO;NÃO;INTEGRAL;ASSINADO;N/A;25800.001711/2024-92;23/2025;DATAMED LTDA.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+165;N311-11;Sistema Western Blot -IBlot®2 Dry Blotting System;N311;B06;Thermo;IB21001;303220288;EM USO;WB;;TAKEDA;INSTALADO;NÃO;NÃO;NÃO;INTEGRAL;ASSINADO;N/A;25800.001711/2024-92;23/2025;DATAMED LTDA.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+166;N311-12;Sistema de detecção de proteinas SNAP id® 2.0 ;N311;B06;Merck;SNAP ID 2.0;S004516;EM USO;WB;;TAKEDA;INSTALADO;NÃO;NÃO;NÃO;INTEGRAL;ASSINADO;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+167;N311-14;Módulo de eletroforese (Electrotransfer module for XCell II);N311;B06;Thermo;EI9051;19925754;EM USO;;;TAKEDA;INSTALADO;NÃO;NÃO;NÃO;INTEGRAL;ASSINADO;N/A;25800.001711/2024-92;23/2025;DATAMED LTDA.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+168;N311-18;Espectrofotômetro UV;N311;B06;Shimadzu;UV-2600i;A12595900841;EM USO;;;TAKEDA;INSTALADO;SIM;NÃO;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.006595/2023;;SHIMADZU;Aguardando correção de alguns erros apontados pelo SVC no relatório de qualificação. Fabiana está responsável pelo contato com o técnico para resolução dessas questões.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+169;N311-20;Banho-maria (25,0ºC ± 0,5°C);N311;B06;Polyscience;MX07R-20-A13D;2205-02027;EM USO;"ANÁLISE DE AP, API E VP; 
+pH do BDS; 
+pH DO HEMO-8r; 
+Determinação de Tris e Histidina; 
+Manitol e Trealose";SIM;TAKEDA;INSTALADO;SIM;SIM;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+170;N311-22;Espectrofotômetro UV;N311;B06;Shimadzu;UV-2600i;A12595900842;EM USO;;;TAKEDA;INSTALADO;SIM;NÃO;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.006595/2023;;SHIMADZU;Aguardando correção de alguns erros apontados pelo SVC no relatório de qualificação. Fabiana está responsável pelo contato com o técnico para resolução dessas questões.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+171;N311-23;Balança Analítica;N311;B06;Mettler Toledo;XSR205DU;C203415564;EM USO;"FASE 2A - EMBALAGEM;
+ANÁLISE DE AP, API E VP;
+DILUENTE sWFI PARA HEMO8R; 
+UMIDADE HEMO8R KARL FISHER;
+SDS-PAGE; 
+GLUTATIONA; 
+WB; 
+Determinação dos Agregados de Proteínas; 
+Determinação de Tris e Histidina;
+Manitol e Trealose; 
+Fator VIII recombinante em BDS;
+ n-glicanos em rFVIII; 
+TTT  ";SIM;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.002409/2023;20/2024;METTLER;Aguardando elaboração do relatório de requalificação (Will/Amanda).;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+172;N311-24;Refrigerador;N311;B06;Thermo;TSX2305SZ;1142358801220514;FORA DE USO;"POTÊNCIA;
+SDS-PAGE; 
+WB;
+Determinação dos Agregados de Proteínas;
+Determinação de Tris e Histidina; 
+Manitol e Trealose; 
+Fator VIII recombinante em BDS; 
+n-glicanos em rFVIII; 
+TTT ";;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.001711/2024-92;23/2025;DATAMED LTDA.;"Qualificação térmica vencida. Aberto um RTDO 250313-0839 para que o SVC defina quais ações serão tomadas.
+11/06: Aguardando emissão do relatório de qualificação térmica pela datamed";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+173;N311-25;Freezer (-25 a -15°C);N311;B06;Thermo;TSX1230FZ;1142457101220609;FORA DE USO;"POTÊNCIA; 
+WB;
+Determinação dos Agregados de Proteínas; 
+Fator VIII recombinante em BDS; 
+n-glicanos em rFVIII  ";;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.001711/2024-92;23/2025;DATAMED LTDA.;"Qualificação térmica vencida. Aberto um RTDO 250313-0839 para que o SVC defina quais ações serão tomadas.
+11/06: Aguardando execução da qualificação térmica";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+174;N311-26;Ultra-freezer;N311;B06;Thermo;TSX60086D;1125969501220602;FORA DE USO;"POTÊNCIA;
+SDS-PAGE; 
+WB; 
+Determinação dos Agregados de Proteínas; 
+Fator VIII recombinante em BDS; 
+n-glicanos em rFVIII; 
+TTT  ";;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.001711/2024-92;23/2025;DATAMED LTDA.;Qualificação térmica vencida. Será aberto um RTDO para que o SVC defina quais ações serão tomadas.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+175;N311-27;Eletroforese Xcell II Mini-Cell;N311;B06;Thermo;EI0001;20242872;EM USO;;;TAKEDA;INSTALADO;NÃO;NÃO;NÃO;INTEGRAL;ASSINADO;N/A;25800.001711/2024-92;23/2025;DATAMED LTDA.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+176;N311-28;Módulo de eletroforese (Electrotransfer module for XCell II);N311;B06;Thermo;EI9051;19925755;EM USO;;;TAKEDA;INSTALADO;NÃO;NÃO;NÃO;INTEGRAL;ASSINADO;N/A;25800.001711/2024-92;23/2025;DATAMED LTDA.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+177;N311-29;Fonte para Eletroforese Power Pac Basic ;N311;B06;Biorad;Power Pac Basic;041BR322562;EM USO;"SDS-PAGE; 
+WB ";;TAKEDA;INSTALADO;NÃO;NÃO;NÃO;INTEGRAL;ASSINADO;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+178;N311-30;Sistema de Secagem DryEase® Mini-Gel;N311;B06;Thermo;IB21001;Não consta;EM USO;;;TAKEDA;INSTALADO;NÃO;NÃO;NÃO;INTEGRAL;ASSINADO;N/A;25800.001711/2024-92;23/2025;DATAMED LTDA.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+179;N311-31;Densitômetro (scanner de géis);N311;B06;Loccus;DS-5000;200106220029;EM USO;SDS-PAGE;;TAKEDA;INSTALADO;SIM;NÃO;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.002817/2024 ;94/2024;Loccus;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+180;N311-32;Bloco aquecedor do Concentrador de Amostras;N311;B06;Techne;DB100/2;003209-A;EM USO;;;TAKEDA;INSTALADO;SIM;SIM;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;"O plano de calibração foi revisado para ajuste dos pontos de calibração conforme faixa de uso informada pela DIFIQ. Foi solicitada uma nova calibração ao SM.
+21/03: Aguardando avaliaçao do SVC";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+181;N311-34;Medidor de pH e condutividade;N311;B06;Thermo;A210;X48987;FORA DE USO;"ANÁLISE DE AP, API E VP; 
+DILUENTE sWFI PARA HEMO8R; 
+pH do BDS; 
+pH DO HEMO-8r; 
+GLUTATIONA; 
+WB; 
+Determinação dos Agregados de Proteínas;
+Manitol e Trealose; 
+Fator VIII recombinante em BDS; 
+ n-glicanos em rFVIII ;
+TTT ";SIM;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.001711/2024-92;23/2025;DATAMED LTDA.;"Instrumento calibrado. No aguardo do envio do certificado para avaliação do SVC.
+21/02: Cobrado ao SM
+13/03: Cobrado ao SM
+21/03: Cobrado ao SM
+11/06: Aguardando execução da calibração";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+182;N311-35;Banho ultrassônico;N311;B06;Fisher;CPX8800HE;BIG042278800D;EM USO;GLUTATIONA;;TAKEDA;INSTALADO;SIM;NÃO;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+183;N311-36;Sistema de eletroforese capilar;N311;B06;Agilent;7100;;EM USO;GLUTATIONA;;TAKEDA;INSTALADO;SIM;NÃO;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.008005/2023;21/2024;AGILENT;O software precisou ser reinstalado e uma nova qualificação de CSV será necessária. Aguardando elaboração do protocolo e execução da qualificação pela garantia. RTDO aberto 240924-1558.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+184;N311-37;Banho-maria (50 ºC);N311;B06;Polyscience;WBE05;E12110224;EM USO;Determinação dos Agregados de Proteínas;;TAKEDA;INSTALADO;SIM;SIM;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+185;N311-39;Microcentrífuga;N311;B06;Thermo;Pico 17;42940259;EM USO;"POTÊNCIA;
+n-glicanos em rFVIII ";;TAKEDA;INSTALADO;SIM;SIM;NÃO;INTEGRAL;ASSINADO;N/A;25800.001711/2024-92;23/2025;DATAMED LTDA.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+186;N311-41;Concentrador a vácuo;N311;B06;Thermo;SPD140DDA;1155056101220223;FORA DE USO;;;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.001711/2024-92;23/2025;DATAMED LTDA.;"Calibração vencida. Aguardando assinatura do contrato para calibração.
+11/06: Aguardando execução da calibração + MP";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+187;N311-42;Agitador de Tubos;N311;B06;Fisher;88882018;L4CT82018049;EM USO;;;TAKEDA;INSTALADO;SIM;NÃO;NÃO;INTEGRAL;ASSINADO;N/A;25800.001711/2024-92;23/2025;DATAMED LTDA.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+188;N311-43;Bloco aquecedor do Concentrador de Amostras;N311;B06;Techne;"DB200/3; FSC400D";003042-A;EM USO;;;TAKEDA;INSTALADO;SIM;SIM;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+189;N311-44;Sistema de água ultrapura (Milli-Q);N311;B06;Merck;IQ 7010;F1KB21017E;EM USO;"ANÁLISE DE AP, API E VP; 
+APARÊNCIA DO BDS; 
+APARÊNCIA E SOLUB. HEMO8R; 
+DILUENTE sWFI PARA HEMO8R; 
+pH do BDS; 
+POTÊNCIA; 
+GLUTATIONA; 
+WB; 
+n-glicanos em rFVIII ";SIM;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.002805/2023;06/2024;MERCK;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+190;N311-47;Posto de Observação Visual;N311;B06;Reintech;VIP;2325;EM USO;"ANÁLISE DE AP, API E VP; 
+APARÊNCIA DO BDS; 
+APARÊNCIA E SOLUB. HEMO8R; 
+DILUENTE sWFI PARA HEMO8R";SIM;TAKEDA;INSTALADO;NÃO;NÃO;NÃO;INTEGRAL;ASSINADO;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+191;N311-48;Titulador Karl Fischer;N311;B06;Metrohm;Titrando 852;1900001041251;EM USO;UMIDADE HEMO8R KARL FISHER;;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.006163/2023;42/2024;METROHM;O equipamento foi calibrado pela Metrohm. Aguardando retorno do SVC.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+192;N311-49;Espectrofotômetro de Fluorescência;N311;B06;Shimadzu;RF-6000;A40245902075;EM USO;;;TAKEDA;INSTALADO;SIM;NÃO;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.006595/2023;;SHIMADZU;Aguardando correção de alguns erros apontados pelo SVC no relatório de qualificação. Fabiana está responsável pelo contato com o técnico para resolução dessas questões.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+193;N311-49-BBT-001;Banho de baixa temperatura;N311;B06;Eyela;NCB-1220B;12210711;EM USO;;;TAKEDA;INSTALADO;SIM;NÃO;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+194;N311-50;Banho Seco com Agitação (Thermoshaker);N311;B06;Fisher Scientific;15-600-331;214914246;FORA DE USO;"SDS-PAGE; 
+n-glicanos em rFVIII ";;TAKEDA;INSTALADO;SIM;SIM;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.001578/2024;24/2025;Mec-Q / Trescal;"Calibração vencida, aguardando contrato de calibração dos equipamentos gerais.
+Foi realizada uma tentativa de calibração do equipamento por duas empresas de calibração, mas o equipamento apresentou erros altos. Estamos no aguardo da contratação de alguma empresa para realizar a manutenção corretiva.
+11/06: foi realizada a calibração pela trescal, mas não foi possível executar um dos parametros";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+195;N311-51;Glove-Box;N311;B06;Hipperquímica;Polipropileno Custom;2022/01456;FORA DE USO;UMIDADE HEMO8R KARL FISHER;;ADQUIRIDO;INSTALADO;SIM;SIM;SIM;N/A;N/A;N/A;25800.003233/2024;106/2024;HIPPERQUÍMICA;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+196;N311-52;Bomba de vácuo isenta de óleo;N311;B06;Thermo;OFP400-115;1155067801220331;EM USO;;;TAKEDA;INSTALADO;NÃO;NÃO;NÃO;N/A;N/A;N/A;25800.001711/2024-92;23/2025;DATAMED LTDA.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+197;N311-53;Refrigerated vapor trap;N311;B06;Thermo;RVT5105-230;220124599;EM USO;;;TAKEDA;INSTALADO;SIM;NÃO;NÃO;N/A;N/A;N/A;25800.001711/2024-92;23/2025;DATAMED LTDA.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+198;N311-54;Concentrador de Amostras;N311;B06;Techne;FSC496D;NÃO CONSTA;EM USO;n-glicanos em rFVIII ;;TAKEDA;INSTALADO;SIM;NÃO;NÃO;N/A;N/A;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+199;N311-55;Dessecador em acrílico;N311;B06;Outletlab;Não Consta;2851.24;EM USO;Determinação de Tris e Histidina;;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+200;N311-56;Dessecador em acrílico;N311;B06;Outletlab;Não Consta;2852.24;EM USO;Determinação de Tris e Histidina;;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+201;N314-01;Sistema de Cromatografia Gasosa (CG) com Headspace + Gerador de Ar e Hidrogênio;N314;B06;Agilent;"CG – 8890
+Amostrador - PAL RSI 85
+Gerador de Ar Sintético
+Gerador de Ar comprimido de Precisão 
+Gerador de Hidrogênio SL 100";"CG - CN2143A139
+Amostrador – CH00587566
+Controlador - 576151
+Gerador de Ar Sintético - 721110021
+Gerador de Ar comprimido de Precisão - 721100899";EM USO;;;TAKEDA;INSTALADO;SIM;NÃO;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.008005/2023;21/2024;AGILENT;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+202;N314-02;Sistema de Cromatografia Gasosa (CG) com Headspace + Gerador de Ar e Hidrogênio;N314;B06;Agilent;"CG – 8890
+Amostrador - PAL RSI 85
+Gerador de Ar Sintético
+Gerador de Ar comprimido de Precisão 
+Gerador de Hidrogênio SL 100";"CG - CN2143A138
+Amostrador – CH00579388
+Controlador - 576086
+Gerador de Ar Sintético - 721110022
+Gerador de Ar comprimido de Precisão - 721100830
+Gerador de Hidrogênio - 721090508";EM USO;;;TAKEDA;INSTALADO;SIM;NÃO;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.008005/2023;21/2024;AGILENT;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+203;N314-03;HPLC Alliance e2695 com detectores UV-Vis e ELS;N313;B06;Waters;"HPLC - e2695
+UV/Vis - 2489
+ELS - 2424";"HPLC - K21SM4317A
+UV/Vis - K2187E434A
+ELS - K21ELS219M
+BOMBA – K21SHC851A
+INJETOR – K21SMC9306
+PC - S4SV2737";EM USO;"Fator VIII recombinante em BDS; 
+TTT";;TAKEDA;INSTALADO;SIM;NÃO;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.005314/2023;14/2024;WATERS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+204;N314-04;HPLC Alliance e2695 com detector de fluorecência;N313;B06;Waters;"HPLC - e2695
+FLR - 2475";"HPLC - A22SM4082A
+FLR - M21475660G
+Forno - K21SMC032G
+BOMBA – M21SHC754A
+PC - S4SV2732";EM USO;"Determinação dos Agregados de Proteínas; 
+Determinação de Tris e Histidina ";;TAKEDA;INSTALADO;SIM;NÃO;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.005314/2023;14/2024;WATERS;Aguardando homologação do relatório de requalificação (Williamis);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+205;N314-05;HPLC Alliance e2695 com detector de índice de refração ;N313;B06;Waters;"HPLC - e2695
+RI - 2414 ";"HPLC - A22SM4081A
+RI - A22214187M
+Forno - K21SMC012G
+BOMBA – M21SHC753A
+PC - S4SV2715";EM USO;"Manitol e Trealose; 
+TTT";;TAKEDA;INSTALADO;SIM;NÃO;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.005314/2023;14/2024;WATERS;Aguardando homologação do relatório de requalificação (Williamis);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+206;N314-06;HPLC ACQUITY Arc Bio System com detector de fluorescência com célula de fluxo de baixa dispersão;N313;B06;Waters;FLR - 2475;"QSM-R - L21BQS160M
+FTN-R - K21BFT139N
+FLR - K21VFL095G
+Forno - K21BHC088G   PC - S4SV2743";EM USO; n-glicanos em rFVIII ;;TAKEDA;INSTALADO;SIM;NÃO;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;25800.005314/2023;14/2024;WATERS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+207;N314-07;Banho-maria (37°C ±1°C);N314;B06;Polyscience;WB05;W214B0191;EM USO;;;TAKEDA;INSTALADO;SIM;SIM;NÃO;INTEGRAL;ASSINADO;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+208;N319-01;Analisador de Hemostasia BCS-XP;N319;B06;Siemens;BCS-XP;3229935;EM USO;POTÊNCIA;;TAKEDA;INSTALADO;SIM;NÃO;SIM;INTEGRAL;ASSINADO;HOMOLOGADO;;;;Sensor de temperatura do rotor esquerdo apresentando defeito;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+209;N323-01;Máquina de Gelo;N323;B06;Hexport Equipamentos;MGES0050-16;PCES0050150018;EM USO;"POTÊNCIA; 
+Fator VIII recombinante em BDS";;ADQUIRIDO;INSTALADO;SIM;NÃO;NÃO;N/A;N/A;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+210;PAQ-512-0001;Paquímetro digital;N125;B06;Mitutoyo;500-171-20B;14904644;EM USO;FASE 2A - EMBALAGEM;SIM;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;Calibração realizada. Aguardando a avaliação do SVC.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+211;PAQ-512-0002;Paquímetro analógico;N125;B06;Mitutoyo;530-118;22202064;EM USO;FASE 2A - EMBALAGEM;SIM;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;"Calibração realizada. Aguardando revisão do plano de calibração
+21/03: O SVC fez nova avaliação do certificado e solicitou a inclusão de algumas informações. Aguardando devolutiva de Rafael
+11/06: Aguardando retorno do stardoc";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+212;PHM-512-0001;pHmetro portátil;N119;B06;Hanna;HI8424;8591896;OBSOLETO;;NÃO;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;EQUIPAMENTO FORA DE USO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+213;PHM-512-0002;Medidor de pH e Condutividade de Bancada;N119;B06;Metrohm;"Módulo de pH 867;
+Módulo de Condutividade: 856";"1867001032001
+1856001012225";EM USO;"ANÁLISE DE AP, API E VP; 
+DILUENTE sWFI PARA HEMO8R;
+pH do BDS;
+pH DO HEMO-8r; 
+Determinação dos Agregados de Proteínas;
+Manitol e Trealose; 
+Fator VIII recombinante em BDS; 
+ n-glicanos em Rfviii; 
+TTT  ";SIM;ADQUIRIDO;INSTALADO;SIM;SIM;SIM;N/A;N/A;N/A;25800.006163/2023;42/2024;METROHM;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+214;PIP-512-0001;Micropipeta F1N 100 a 1000?l;N/A;B06;THERMO SCIENTIFIC;F1N;UH02387;EM USO;"ANÁLISE DE AP, API E VP; 
+APARÊNCIA DO BDS; 
+APARÊNCIA E SOLUB. HEMO8R; 
+pH do BDS; 
+Determinação dos Agregados de Proteínas; 
+Manitol e Trealose; 
+Fator VIII recombinante em BDS; 
+n-glicanos em rFVIII
+TTT";SIM;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001711/2024-92;23/2025;DATAMED LTDA.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+215;PIP-512-0002;Micropipeta F1N 100 a 1000?l;N/A;B06;THERMO SCIENTIFIC;F1N;UH02388;EM USO;"ANÁLISE DE AP, API E VP; 
+APARÊNCIA DO BDS; 
+APARÊNCIA E SOLUB. HEMO8R; 
+pH do BDS;
+Determinação dos Agregados de Proteínas; 
+Manitol e Trealose; 
+Fator VIII recombinante em BDS; 
+n-glicanos em rFVIII
+TTT";SIM;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001711/2024-92;23/2025;DATAMED LTDA.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+216;PIP-512-0003;Micropipeta F1N 100 a 1000?l;N/A;B06;THERMO SCIENTIFIC;F1N;UH02389;EM USO;"ANÁLISE DE AP, API E VP; 
+APARÊNCIA DO BDS; 
+APARÊNCIA E SOLUB. HEMO8R; 
+pH do BDS; 
+Determinação dos Agregados de Proteínas; 
+Manitol e Trealose; 
+Fator VIII recombinante em BDS; 
+n-glicanos em rFVIII
+TTT";SIM;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001711/2024-92;23/2025;DATAMED LTDA.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+217;PIP-512-0004;Micropipeta F1N 30 a 300?l;N/A;B06;THERMO SCIENTIFIC;F1N;UH03983;EM USO;;;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001711/2024-92;23/2025;DATAMED LTDA.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+218;PIP-512-0005;Micropipeta F1N 30 a 300?l;N/A;B06;THERMO SCIENTIFIC;F1N;UH03997;EM USO;;SIM;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001711/2024-92;23/2025;DATAMED LTDA.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+219;PIP-512-0006;Micropipeta F1N 30 a 300?l;N/A;B06;THERMO SCIENTIFIC;F1N;UH03998;EM USO;Biocarga;SIM;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001711/2024-92;23/2025;DATAMED LTDA.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+220;PIP-512-0007;Micropipeta F1N 30 a 300?l;N/A;B06;THERMO SCIENTIFIC;F1N;UH04004;EM USO;;;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001711/2024-92;23/2025;DATAMED LTDA.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+221;PIP-512-0008;Micropipeta F1N 30 a 300?l;N/A;B06;THERMO SCIENTIFIC;F1N;UH04005;EM USO;;;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001711/2024-92;23/2025;DATAMED LTDA.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+222;PIP-512-0009;Micropipeta Multicanal F1 8CH 30 a 300?l;N/A;B06;THERMO SCIENTIFIC;F1-CLIPTIP 8 CH;TH60548;EM USO;;;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001711/2024-92;23/2025;DATAMED LTDA.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+223;PIP-512-0010;Micropipeta Multicanal F1 8CH 30 a 300?l;N/A;B06;THERMO SCIENTIFIC;F1-CLIPTIP 8 CH;TH60561;EM USO;;;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001711/2024-92;23/2025;DATAMED LTDA.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+224;PIP-512-0011;Micropipeta F1N 100 a 1000?L;N/A;B06;THERMO SCIENTIFIC;F1N;TU19325;EM USO;"ANÁLISE DE AP, API E VP; 
+APARÊNCIA DO BDS; 
+APARÊNCIA E SOLUB. HEMO8R; 
+pH do BDS; 
+Determinação dos Agregados de Proteínas; 
+Manitol e Trealose; 
+Fator VIII recombinante em BDS; 
+n-glicanos em rFVIII
+TTT";SIM;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001711/2024-92;23/2025;DATAMED LTDA.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+225;PIP-512-0012;Micropipeta F1N 100 a 1000?L;N/A;B06;THERMO SCIENTIFIC;F1N;TU19326;EM USO;Biocarga;SIM;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001711/2024-92;23/2025;DATAMED LTDA.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+226;PIP-512-0014;Micropipeta F1N 2 a 20?L;N/A;B06;THERMO SCIENTIFIC;F1N;MH70103;EM USO;"Determinação dos Agregados de Proteínas; 
+Determinação de Tris e Histidina; 
+Manitol e Trealose; 
+Fator VIII recombinante em BDS; 
+n-glicanos em rFVIII;
+TTT ";SIM;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001711/2024-92;23/2025;DATAMED LTDA.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+227;PIP-512-0015;Micropipeta F1N 2 a 20?l;N/A;B06;THERMO SCIENTIFIC;F1N;MH70104;EM USO;"Determinação dos Agregados de Proteínas; 
+Determinação de Tris e Histidina; 
+Manitol e Trealose; 
+Fator VIII recombinante em BDS; 
+n-glicanos em rFVIII; 
+TTT ";;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001711/2024-92;23/2025;DATAMED LTDA.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+228;PIP-512-0016;Micropipeta F1N 2 a 20?l;N/A;B06;THERMO SCIENTIFIC;F1N;NH25091;EM USO;"Determinação dos Agregados de Proteínas; 
+Determinação de Tris e Histidina; 
+Manitol e Trealose; 
+Fator VIII recombinante em BDS; 
+n-glicanos em rFVIII; 
+TTT  ";;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001711/2024-92;23/2025;DATAMED LTDA.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+229;PIP-512-0017;Micropipeta F1N 2 a 20?l;N/A;B06;THERMO SCIENTIFIC;F1N;NH25095;EM USO;"Determinação dos Agregados de Proteínas; 
+Determinação de Tris e Histidina; 
+Manitol e Trealose; 
+Fator VIII recombinante em BDS; 
+n-glicanos em rFVIII; 
+TTT  ";;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001711/2024-92;23/2025;DATAMED LTDA.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+230;PIP-512-0018;Micropipeta F1N 2 a 20?l;N/A;B06;THERMO SCIENTIFIC;F1N;NH25096;EM USO;"Determinação dos Agregados de Proteínas; 
+Determinação de Tris e Histidina; 
+Manitol e Trealose; 
+Fator VIII recombinante em BDS;
+n-glicanos em rFVIII  ";;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001711/2024-92;23/2025;DATAMED LTDA.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+231;PIP-512-0019;Micropipeta monocanal volume variável 100 a 1000?l;1N311;B06;HTL Lab Solutions;DV-1000 COMFORT;140460984;FORA DE USO;"ANÁLISE DE AP, API E VP; 
+APARÊNCIA DO BDS; 
+APARÊNCIA E SOLUB. HEMO8R; 
+pH do BDS; 
+Determinação dos Agregados de Proteínas; 
+Manitol e Trealose; 
+Fator VIII recombinante em BDS; 
+n-glicanos em rFVIII
+TTT";SIM;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;Reprovado na calibração;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+232;PIP-512-0020;Micropipeta monocanal volume variável 20 a 200?l;1N311;B06;HTL Lab Solutions;DV-200 COMFORT;140451003;EM USO;"Determinação dos Agregados de Proteínas; 
+Determinação de Tris e Histidina; 
+Manitol e Trealose; 
+Fator VIII recombinante em BDS; 
+n-glicanos em rFVIII; 
+TTT  ";;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;Realizada calibração. Aguardando emissão dos certificados;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+233;PIP-512-0021;Micropipeta monocanal volume variável 10 a 100?l;1N311;B06;HTL Lab Solutions;LM-100 SOFT;948140194;EM USO;;;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;Realizada calibração. Aguardando emissão dos certificados;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+234;PIP-512-0022;Micropipeta monocanal volume variável 10 a 100?l;1N311;B06;HTL Lab Solutions;LM-100 SOFT;948140170;FORA DE USO;;;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;Reprovado na calibração;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+235;PIP-512-0023;Micropipeta monocanal volume variável 20 a 200?l;1N311;B06;HTL Lab Solutions;DV-200 COMFORT;140450986;FORA DE USO;"Determinação dos Agregados de Proteínas; 
+Determinação de Tris e Histidina; 
+Manitol e Trealose; 
+Fator VIII recombinante em BDS; 
+n-glicanos em rFVIII; 
+TTT  ";;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;O instrumento não foi localizado nos laboratórios.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+236;PIP-512-0024;Micropipeta monocanal volume fixo com ejetor 100?l;1N311;B06;Digipet;VF-100;9050261;EM USO;;;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;Realizada calibração. Aguardando emissão dos certificados;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+237;PIP-512-0025;Micropipeta monocanal volume fixo com ejetor 100?l;1N311;B06;Digipet;VF-100;9050266;FORA DE USO;;;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;Reprovado na calibração;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+238;PIP-512-0026;Micropipetador Multicanal Eletrônico 30 a 300?l;N310;B06;Thermo Scientific;Finnpipette FP-Novus MCP8 30-300µL;UH43047;EM USO;;;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001711/2024-92;23/2025;DATAMED LTDA.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+239;PIP-512-0027;Micropipetador Multicanal Eletrônico 30 a 300?l;N310;B06;Mettler-Toledo;Rainin E4 XLS;C315978838;EM USO;"APARÊNCIA DO BDS; 
+APARÊNCIA E SOLUB. HEMO8R; 
+pH do BDS";SIM;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+240;POV-512-0001;Posto de Observação Visual;N311;B06;Reintech;VIP;2131;EM USO;"ANÁLISE DE AP, API E VP; 
+APARÊNCIA DO BDS; 
+APARÊNCIA E SOLUB. HEMO8R; 
+DILUENTE sWFI PARA HEMO8R";SIM;ADQUIRIDO;INSTALADO;NÃO;NÃO;SIM;N/A;N/A;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+241;PPAD-512-0001;Conjunto de pesos padrão classe F1;N125;B06;Brasil Calibração;N/A;N/A;EM USO;"ANÁLISE DE AP, API E VP; 
+DILUENTE sWFI PARA HEMO8R; 
+UMIDADE HEMO8R KARL FISHER";SIM;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+242;PPAD-512-0002;Peso padrão classe E2;N125;B06;Brasil Calibração;N/A;N/A;FORA DE USO;;SIM;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;"Recalibração realizada e o certificado de calibração foi reprovado novamente.
+11/06: o peso será enviado para calibração novamente na trescal";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+243;PPAD-512-0003;Peso Padrão;N119;B06;WL;N.A.;N.A.;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+244;PPAD-512-0004;Peso Padrão;N119;B06;WL;N.A.;N.A.;EM USO;"FASE 2A - EMBALAGEM; 
+ANÁLISE DE AP, API E VP; 
+DILUENTE sWFI PARA HEMO8R; 
+UMIDADE HEMO8R KARL FISHER";;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+245;PPAD-512-0005;Peso padrão 1g classe F1 em aço inoxidável;N311;B06;Quanto Brasil;F1;37324;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+246;PPAD-512-0006;Peso padrão 1g classe F1 em aço inoxidável;N311;B06;Quanto Brasil;F1;37223;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+247;PPAD-512-0007;Peso padrão 2g classe E2 em aço inoxidável;N311;B06;Quanto Brasil;E2;6824;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+248;PPAD-512-0008;Peso padrão 10g classe F1 em aço inoxidável;N311;B06;Quanto Brasil;F1;37424;EM USO;"ANÁLISE DE AP, API E VP; 
+DILUENTE sWFI PARA HEMO8R; 
+UMIDADE HEMO8R KARL FISHER";;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+249;PPAD-512-0009;Peso padrão 10g classe F1 em aço inoxidável;N311;B06;Quanto Brasil;F1;37524;EM USO;"ANÁLISE DE AP, API E VP; 
+DILUENTE sWFI PARA HEMO8R; 
+UMIDADE HEMO8R KARL FISHER";;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+250;PPAD-512-0010;Peso padrão 10g classe F1 em aço inoxidável;N311;B06;Quanto Brasil;F1;37624;EM USO;"ANÁLISE DE AP, API E VP; 
+DILUENTE sWFI PARA HEMO8R; 
+UMIDADE HEMO8R KARL FISHER";;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+251;PPAD-512-0011;Peso padrão 20g classe F1 em aço inoxidável;N311;B06;Quanto Brasil;F1;37724;EM USO;"ANÁLISE DE AP, API E VP; 
+DILUENTE sWFI PARA HEMO8R; 
+UMIDADE HEMO8R KARL FISHER";;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+252;PPAD-512-0012;Peso padrão 20g classe F1 em aço inoxidável;N311;B06;Quanto Brasil;F1;37824;EM USO;"ANÁLISE DE AP, API E VP; 
+DILUENTE sWFI PARA HEMO8R; 
+UMIDADE HEMO8R KARL FISHER";;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+253;PPAD-512-0013;Peso padrão 100g classe F1 em aço inoxidável;N311;B06;Quanto Brasil;F1;37924;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+254;PPAD-512-0014;Peso padrão 100g classe F1 em aço inoxidável;N311;B06;Quanto Brasil;F1;38024;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+255;PPAD-512-0015;Peso padrão 200g classe F1 em aço inoxidável;N311;B06;Quanto Brasil;F1;38124;EM USO;"ANÁLISE DE AP, API E VP; 
+DILUENTE sWFI PARA HEMO8R; 
+UMIDADE HEMO8R KARL FISHER";;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+256;PPAD-512-0016;Peso padrão 200g classe F1 em aço inoxidável;N311;B06;Quanto Brasil;F1;38224;EM USO;"ANÁLISE DE AP, API E VP; 
+DILUENTE sWFI PARA HEMO8R; 
+UMIDADE HEMO8R KARL FISHER";;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+257;PPAD-512-0017;Peso padrão 2000g classe F1 em aço inoxidável;N311;B06;Quanto Brasil;F1;38324;EM USO;DILUENTE sWFI PARA HEMO8R;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+258;REP-512-0001;Repipetador;N310;B06;Brand;Handy Step Touch S;23A37650;EM USO;;SIM;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+259;REP-512-0002;Repipetador;N311;B06;Brand;Handy Step Touch S;23A35821;EM USO;;;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+260;RGR-512-0001;Régua graduada;N125;B06;Kingtools;600004;352581;EM USO;FASE 2A - EMBALAGEM;SIM;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+261;RGR-512-0002;Régua graduada;N125;B06;Kingtools;600004;352582;EM USO;FASE 2A - EMBALAGEM;SIM;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+262;RGR-512-0003;Régua graduada;N125;B06;Kingtools;600006;352583;EM USO;FASE 2A - EMBALAGEM;SIM;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+263;RGR-512-0004;Régua graduada;N125;B06;Kingtools;600006;352584;EM USO;FASE 2A - EMBALAGEM;SIM;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+264;SDI-512-0001;Medidor de SDI;N119;B06;Procam;Simple SDI;9A-281-0155;OBSOLETO;;;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;;;;Equipamento quebrado e colocado fora de uso.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+265;SGTP-02-AE.1;Detector de Oxigênio;N309;B06;Akso;SGTP-02;0420912;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+266;SGTP-02-AE.2;Detector de Oxigênio;N309;B06;Akso;SGTP-02;1222832;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+267;TGR-512-0001;Trena;N125;B06;Tajima/Mitutoyo;H6P36DYL250Y;352585;EM USO;FASE 2A - EMBALAGEM;SIM;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+268;TGR-512-0002;Trena;N125;B06;Tajima/Mitutoyo;H6P36DYL250Y;352586;EM USO;FASE 2A - EMBALAGEM;SIM;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+269;THD-400-001;Termohigrômetro Digital;;B05;Instrutemp;ITHT 2250;14050;FORA DE USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;Instrumento emprestado pelo SM. Caso seja necessário utilizar novamente solicitar ao SM.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+270;THD-400-003;Termohigrômetro Digital;N100;B06;Incoterm;Não Consta;0821;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;;;;Instrumento emprestado pelo SM;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+271;THD-512-0002;Termo-higrômetro;;B06;MINIPA;MT-241;2886890;FORA DE USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;O instrumento teve a sonda partida. Foi solicitada abertura de um PCM para reparo. A sonda foi reparada e agora será solicitada uma nova calibração em 27/01/2025;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+272;THD-512-0003;Termo-higrômetro Digital;;B06;Instrutemp;ITHT-2250;14040;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;Instrumento aprovado com restrição;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+273;TI-512-0001;Termometro Digital;N100;B06;Incoterm;7427.02.0.00;N/A;FORA DE USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;O instrumento não foi localizado nos laboratórios.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+274;TI-512-0002 ;Termômetro Digital ;N305;B06;Traceable;;;EM USO;;;TAKEDA;INSTALADO;SIM;NÃO;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+275;TMER-512-0001;Termômetro de Vidro tipo ASTM 82C;N119;B06;Incoterm;ASTM 82C;78255/11;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+276;TMER-512-0002;Termômetro de Vidro tipo ASTM 82C;N119;B06;Incoterm;ASTM 82C;78261/11;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+277;UCI-512-0001;Câmara Climática;N171 ;B06;Binder;KBF-720;20230000002716;FORA DE USO;;;ADQUIRIDO;INSTALADO;SIM;SIM;SIM;N/A;N/A;N/A;25800.006248/2023;41/2024;LOBOV;"O plano de calibração terá que ser revisado para que depois seja realizada uma nova avaliação do certificado.
+11/03: Solicitei a Neto e Araújo o envio dos certificados revisados para avaliação do SVC visto que o plano de calibração foi homologado.
+13/03: Araújo enviou os certificaodos. Estamos aguardando avaliação do SVC
+11/06: Aguardando liberação da qualificação";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+278;UCI-512-0002;Câmara Climática;N171 ;B06;Binder;KBF-720;20220000015131;FORA DE USO;;;ADQUIRIDO;INSTALADO;SIM;SIM;SIM;N/A;N/A;N/A;25800.006248/2023;41/2024;LOBOV;"O plano de calibração terá que ser revisado para que depois seja realizada uma nova avaliação do certificado.
+11/03: Solicitei a Neto e Araújo o envio dos certificados revisados para avaliação do SVC visto que o plano de calibração foi homologado.
+13/03: Araújo enviou os certificaodos. Estamos aguardando avaliação do SVC
+11/06: Aguardando liberação da qualificação";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+279;UCI-512-0003;Câmara Climática;N171 ;B06;Binder;KBF-720;20220000015132;FORA DE USO;;;ADQUIRIDO;INSTALADO;SIM;SIM;SIM;N/A;N/A;N/A;25800.006248/2023;41/2024;LOBOV;"O plano de calibração terá que ser revisado para que depois seja realizada uma nova avaliação do certificado.
+11/03: Solicitei a Neto e Araújo o envio dos certificados revisados para avaliação do SVC visto que o plano de calibração foi homologado.
+13/03: Araújo enviou os certificaodos. Estamos aguardando avaliação do SVC
+11/06: Aguardando liberação da qualificação";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+280;UCI-512-0004;Câmara Climática;N171 ;B06;Binder;KBF-720;20230000004365;FORA DE USO;;;ADQUIRIDO;INSTALADO;SIM;SIM;SIM;N/A;N/A;N/A;25800.006248/2023;41/2024;LOBOV;"O plano de calibração terá que ser revisado para que depois seja realizada uma nova avaliação do certificado.
+11/03: Solicitei a Neto e Araújo o envio dos certificados revisados para avaliação do SVC visto que o plano de calibração foi homologado.
+13/03: Araújo enviou os certificaodos. Estamos aguardando avaliação do SVC
+11/06: Aguardando liberação da qualificação";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+281;UU-512-0001;Medidor de ponto de orvalho;N309;B06;Testo;Testo 635-2;21105526;FORA DE USO;Medição de ponto de orvalho em gases;SIM;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;"Os medidores foram reprovados na calibração da COMPETEC e serão enviados a outra empresa para ajuste e nova calibração. Avaliar com Pedro qual a previsão de calibração.
+11/06: o instrumento será enviado para calibração na trescal";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+282;UU-512-0002;Medidor de ponto de orvalho;N309;B06;Testo;Testo 635-2;21114549;EM USO;Medição de ponto de orvalho em gases;SIM;ADQUIRIDO;N/A;SIM;SIM;NÃO;N/A;N/A;N/A;25800.001578/2024;24/2025;Mec-Q / Trescal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+283;GAR-510-0001;Gerador de Ar;N313;B06;PEAK;N/A;N/A;EM USO;;;TAKEDA;INSTALADO;SIM;NÃO;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+284;GAR-510-0001.1;Gerador de Ar Comprimido de Precisão;N313;B06;PEAK;Precision Compressed Air 230v;721100899;EM USO; ;;TAKEDA;INSTALADO;SIM;NÃO;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+285;GAR-510-0001.2;Gerador de Ar Zero;N313;B06;PEAK;Precision Zero Air 15000cc 230v;721110021;EM USO;;;TAKEDA;INSTALADO;SIM;NÃO;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+286;GAR-510-0002;Gerador de Ar;N313;B06;PEAK;N/A;N/A;EM USO;;;TAKEDA;INSTALADO;SIM;NÃO;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+287;GAR-510-0002.1;Gerador de Ar Comprimido de Precisão;N313;B06;PEAK;Precision Compressed Air 230v;721100830;EM USO;;;TAKEDA;INSTALADO;SIM;NÃO;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+288;GAR-510-0002.2;Gerador de Ar Zero;N313;B06;PEAK;Precision Zero Air 15000cc 230v;721110022;EM USO;;;TAKEDA;INSTALADO;SIM;NÃO;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+289;GRH-510-0001;Gerador de Hidrogênio;N313;B06;PEAK;Precision Hydrogen SL 100 Auto Fill Black;722040660;EM USO;;;TAKEDA;INSTALADO;SIM;NÃO;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+290;GRH-510-0002;Gerador de Hidrogênio;N313;B06;PEAK;Precision Hydrogen SL 100 Auto Fill Black;721090508;EM USO;;;TAKEDA;INSTALADO;SIM;NÃO;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+291;AGI-N310-0002;Digital Vórtex Mixer;N310;B06;Thermo Fisher Scientific;88882010;LACT82010494;EM USO;;;ADQUIRIDO;N/A;SIM;NÃO;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+292;AGI-N310-0003;Digital Vórtex Mixer;N310;B06;Thermo Fisher Scientific;88882010;LACT82010512;EM USO;;;ADQUIRIDO;N/A;SIM;NÃO;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+293;AGI-D202-0001;Digital Vórtex Mixer;D202;B06;Thermo Fisher Scientific;88882010;LACT82010669;EM USO;;;ADQUIRIDO;N/A;SIM;NÃO;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+294;AGI-N119-0001;Digital Vórtex Mixer;N119;B06;Thermo Fisher Scientific;88882010;M1CT82010100;EM USO;;;ADQUIRIDO;N/A;SIM;NÃO;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+295;AGI-N119-0002;Digital Vórtex Mixer;N119;B06;Thermo Fisher Scientific;88882010;M1CT2010142;EM USO;;;ADQUIRIDO;N/A;SIM;NÃO;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+296;AGI-N311-0001;Digital Vórtex Mixer;N311;B06;Thermo Fisher Scientific;88882010;M3CT2010327;EM USO;;;ADQUIRIDO;N/A;SIM;NÃO;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+297;AGI-N311-0002;Digital Vórtex Mixer;N311;B06;Thermo Fisher Scientific;88882010;M3CT82010302;EM USO;;;ADQUIRIDO;N/A;SIM;NÃO;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+298;PIP-512-0028;Micropipeta Multicanal - 8 CANAIS (30-300µL);N311;B06;Thermo Scientific;F1-CLIPTIP;TH60562;EM USO;;;ADQUIRIDO;N/A;SIM;SIM;NÃO;;;;;;;21/03: pipetas novas. Solicitei a Taisa que colocasse o plano de calibração em revisão para inclusão desses instrumentos e após homologação solicitar avaliação do SVC;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+299;PIP-512-0029;Micropipeta Multicanal - 8 CANAIS (30-300µL);N311;B06;Thermo Scientific;F1-CLIPTIP;UH63287;EM USO;;;ADQUIRIDO;N/A;SIM;SIM;NÃO;;;;;;;21/03: pipetas novas. Solicitei a Taisa que colocasse o plano de calibração em revisão para inclusão desses instrumentos e após homologação solicitar avaliação do SVC;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+300;PIP-512-0030;Micropipeta Multicanal - 8 CANAIS (30-300µL);N311;B06;Thermo Scientific;F1-CLIPTIP;UH02602;EM USO;;;ADQUIRIDO;N/A;SIM;SIM;NÃO;;;;;;;21/03: pipetas novas. Solicitei a Taisa que colocasse o plano de calibração em revisão para inclusão desses instrumentos e após homologação solicitar avaliação do SVC;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+301;PIP-512-0031;Micropipeta Multicanal - 8 CANAIS (30-300µL);N311;B06;Thermo Scientific;F1-CLIPTIP;UH49808;EM USO;;;ADQUIRIDO;N/A;SIM;SIM;NÃO;;;;;;;21/03: pipetas novas. Solicitei a Taisa que colocasse o plano de calibração em revisão para inclusão desses instrumentos e após homologação solicitar avaliação do SVC;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+302;THD-512-0004;Termo-higrômetro Digital com Sensor Externo e Relógio;N127;B06;FORMIS;FOR-102;20242532;FORA DE USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+303;THD-512-0005;Termo-higrômetro Digital com Sensor Externo e Relógio;N128;B06;FORMIS;FOR-102;20242568;FORA DE USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+304;THD-512-0006;Termo-higrômetro Digital com Sensor Externo e Relógio;N126;B06;FORMIS;FOR-102;20243016;FORA DE USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+305;THD-512-0007;Termo-higrômetro Digital com Sensor Externo e Relógio;N124;B06;FORMIS;FOR-102;20242555;FORA DE USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+306;THD-512-0008;Termo-higrômetro Digital com Sensor Externo e Relógio;N312;B06;FORMIS;FOR-102;20242558;FORA DE USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+307;THD-512-0009;Termo-higrômetro Digital com Sensor Externo e Relógio;N325;B06;FORMIS;FOR-102;20243028;FORA DE USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+308;THD-512-0010;Termo-higrômetro Digital com Sensor Externo e Relógio;N318;B06;FORMIS;FOR-102;20242536;FORA DE USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+309;THD-512-0011;Termo-higrômetro Digital com Sensor Externo e Relógio;N130;B06;FORMIS;FOR-102;20242569;FORA DE USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+310;THD-512-0012;Termo-higrômetro Digital com Sensor Externo e Relógio;N130;B06;FORMIS;FOR-102;20243018;FORA DE USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+311;THD-512-0013;Termo-higrômetro Digital com Sensor Externo e Relógio;N353;B06;FORMIS;FOR-102;20242530;FORA DE USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+312;THD-512-0014;Termo-higrômetro Digital com Sensor Externo e Relógio;Área Livre;B06;FORMIS;FOR-102;20242551;FORA DE USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+313;THD-512-0015;Termo-higrômetro Digital com Sensor Externo e Relógio;N356;B06;FORMIS;FOR-102;20243014;FORA DE USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+314;THD-512-0016;Termo-higrômetro Digital com Sensor Externo e Relógio;N119;B06;FORMIS;FOR-102;20242533;FORA DE USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+315;THD-512-0017;Termo-higrômetro Digital com Sensor Externo e Relógio;N311;B06;FORMIS;FOR-102;20242561;FORA DE USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+316;THD-512-0018;Termo-higrômetro Digital com Sensor Externo e Relógio;N313;B06;FORMIS;FOR-102;20243056;FORA DE USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+317;THD-512-0019;Termo-higrômetro Digital com Sensor Externo e Relógio;N116;B06;FORMIS;FOR-102;20242559;FORA DE USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+318;THD-512-0020;Termo-higrômetro Digital com Sensor Externo e Relógio;N100;B06;FORMIS;FOR-102;20242556;FORA DE USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+319;THD-512-0021;Termo-higrômetro Digital com Sensor Externo e Relógio;N105;B06;FORMIS;FOR-102;20243055;FORA DE USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+320;THD-512-0022;Termo-higrômetro Digital com Sensor Externo e Relógio;N103;B06;FORMIS;FOR-102;20243113;FORA DE USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+321;THD-512-0023;Termo-higrômetro Digital com Sensor Externo e Relógio;N101;B06;FORMIS;FOR-102;20242534;FORA DE USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+322;THD-512-0024;Termo-higrômetro Digital com Sensor Externo e Relógio;N121;B06;FORMIS;FOR-102;20243181;FORA DE USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+323;THD-512-0025;Termo-higrômetro Digital com Sensor Externo e Relógio;N304;B06;FORMIS;FOR-102;20243103;FORA DE USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+324;THD-512-0026;Termo-higrômetro Digital com Sensor Externo e Relógio;N319;B06;FORMIS;FOR-102;20242560;FORA DE USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+325;THD-512-0027;Termo-higrômetro Digital com Sensor Externo e Relógio;N310;B06;FORMIS;FOR-102;20243054;FORA DE USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+326;THD-512-0028;Termo-higrômetro Digital com Sensor Externo e Relógio;D202;B06;FORMIS;FOR-102;20242557;FORA DE USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+327;THD-512-0029;Termo-higrômetro Digital com Sensor Externo e Relógio;N300;B06;FORMIS;FOR-102;202423101;FORA DE USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+328;THD-512-0030;Termo-higrômetro Digital com Sensor Externo e Relógio;N305;B06;FORMIS;FOR-102;20243057;FORA DE USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+329;THD-512-0031;Termo-higrômetro Digital com Sensor Externo e Relógio;N201;B06;FORMIS;FOR-102;20243111;FORA DE USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+330;THD-512-0032;Termo-higrômetro Digital com Sensor Externo e Relógio;D200;B06;FORMIS;FOR-102;20242535;FORA DE USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+331;THD-512-0033;Termo-higrômetro Digital com Sensor Externo e Relógio;N127;B06;FORMIS;FOR-102;20243017;FORA DE USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+332;TI-512-0003;Termometro Digital Tipo Espeto;N100;B06;FORMIS;FOR-650;20243304;FORA DE USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+333;PIP-512-0032;Micropipetador (2-20µL);N310;B06;Termo Scientific;Finnpipette F1;VH49480;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+334;PIP-512-0033;Micropipetador (2-20µL);D202;B06;Termo Scientific;Finnpipette F1;VH49481;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+335;PIP-512-0034;Micropipetador (2-20µL);N305;B06;Termo Scientific;Finnpipette F1;VH49482;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+336;PIP-512-0035;Micropipetador (2-20µL);N119;B06;Termo Scientific;Finnpipette F1;VH49486;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+337;PIP-512-0036;Micropipetador (2-20µL);N119;B06;Termo Scientific;Finnpipette F1;VH49487;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+338;PIP-512-0037;Micropipetador (2-20µL);N119;B06;Termo Scientific;Finnpipette F1;VH49488;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+339;PIP-512-0038;Micropipetador (2-20µL);N311;B06;Termo Scientific;Finnpipette F1;VH49489;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+340;PIP-512-0039;Micropipetador (2-20µL);N311;B06;Termo Scientific;Finnpipette F1;VH49491;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+341;PIP-512-0040;Micropipetador (2-20µL);N311;B06;Termo Scientific;Finnpipette F1;VH49492;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+342;PIP-512-0041;Micropipetador (20-200µL);N310;B06;Termo Scientific;Finnpipette F1;VH49508;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+343;PIP-512-0042;Micropipetador (20-200µL);D202;B06;Termo Scientific;Finnpipette F1;VH49509;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+344;PIP-512-0043;Micropipetador (20-200µL);N305;B06;Termo Scientific;Finnpipette F1;VH49510;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+345;PIP-512-0044;Micropipetador (20-200µL);N119;B06;Termo Scientific;Finnpipette F1;VH49514;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+346;PIP-512-0045;Micropipetador (20-200µL);N119;B06;Termo Scientific;Finnpipette F1;VH49515;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+347;PIP-512-0046;Micropipetador (20-200µL);N119;B06;Termo Scientific;Finnpipette F1;VH49516;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+348;PIP-512-0047;Micropipetador (20-200µL);N311;B06;Termo Scientific;Finnpipette F1;VH49517;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+349;PIP-512-0048;Micropipetador (20-200µL);N311;B06;Termo Scientific;Finnpipette F1;VH49519;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+350;PIP-512-0049;Micropipetador (20-200µL);N311;B06;Termo Scientific;Finnpipette F1;VH49520;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+351;PIP-512-0050;Micropipetador (100 a 1000µL);N310;B06;Termo Scientific;Finnpipette F1;VH49643;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+352;PIP-512-0051;Micropipetador (100 a 1000µL);D202;B06;Termo Scientific;Finnpipette F1;VH49644;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+353;PIP-512-0052;Micropipetador (100 a 1000µL);N305;B06;Termo Scientific;Finnpipette F1;VH49645;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+354;PIP-512-0053;Micropipetador (100 a 1000µL);N119;B06;Termo Scientific;Finnpipette F1;VH49649;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+355;PIP-512-0054;Micropipetador (100 a 1000µL);N119;B06;Termo Scientific;Finnpipette F1;VH49650;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+356;PIP-512-0055;Micropipetador (100 a 1000µL);N119;B06;Termo Scientific;Finnpipette F1;VH49651;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+357;PIP-512-0056;Micropipetador (100 a 1000µL);N311;B06;Termo Scientific;Finnpipette F1;VH49652;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+358;PIP-512-0057;Micropipetador (100 a 1000µL);N311;B06;Termo Scientific;Finnpipette F1;VH49654;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+359;PIP-512-0058;Micropipetador (100 a 1000µL);N311;B06;Termo Scientific;Finnpipette F1;VH49655;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+360;PIP-512-0059;Micropipetador (500 a 5000µL);N310;B06;Termo Scientific;Finnpipette F1;VH44265;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+361;PIP-512-0060;Micropipetador (500 a 5000µL);N305;B06;Termo Scientific;Finnpipette F1;VH44266;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+362;PIP-512-0061;Micropipetador (500 a 5000µL);N119;B06;Termo Scientific;Finnpipette F1;VH44268;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+363;PIP-512-0062;Micropipetador (500 a 5000µL);N119;B06;Termo Scientific;Finnpipette F1;VH44270;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+364;PIP-512-0063;Micropipetador (500 a 5000µL);N311;B06;Termo Scientific;Finnpipette F1;VH44278;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+365;PIP-512-0064;Micropipetador (500 a 5000µL);N311;B06;Termo Scientific;Finnpipette F1;VH45122;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+366;PIP-512-0065;Micropipetador (1000 a 10000µL);N310;B06;Termo Scientific;Finnpipette F1;UH79464;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+367;PIP-512-0066;Micropipetador (1000 a 10000µL);N305;B06;Termo Scientific;Finnpipette F1;UH79465;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+368;PIP-512-0067;Micropipetador (1000 a 10000µL);N119;B06;Termo Scientific;Finnpipette F1;UH79466;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+369;PIP-512-0068;Micropipetador (1000 a 10000µL);N119;B06;Termo Scientific;Finnpipette F1;UH79467;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+370;PIP-512-0069;Micropipetador (1000 a 10000µL);N119;B06;Termo Scientific;Finnpipette F1;UH79473;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+371;PIP-512-0070;Micropipetador (1000 a 10000µL);N311;B06;Termo Scientific;Finnpipette F1;UH79474;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+372;PIP-512-0071;Micropipetador (1000 a 10000µL);N311;B06;Termo Scientific;Finnpipette F1;UH80203;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+373;PIP-512-0072;Micropipetador (1000 a 10000µL);N311;B06;Termo Scientific;Finnpipette F1;UH80204;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+374;PIP-512-0073;Micropipetador Multicanal - 8CH (30 a 300µL);N311;B06;Termo Scientific;Finnpipette;VH58523;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+375;PIP-512-0074;Micropipetador Multicanal - 8CH (30 a 300µL);N311;B06;Termo Scientific;Finnpipette;VH58529;EM USO;;;ADQUIRIDO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+376;AGI-N305-0001;Vórtex Digital;N305;B06;Termo Scientific;88882010;N9CT82010017;EM USO;;;ADQUIRIDO;N/A;SIM;NÃO;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+377;AGI-N305-0002;Vórtex Digital;N305;B06;Termo Scientific;88882010;N9CT82010025;EM USO;;;ADQUIRIDO;N/A;SIM;NÃO;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+378;AGI-N305-0003;Vórtex Digital;N305;B06;Termo Scientific;88882010;N9CT82010027;EM USO;;;ADQUIRIDO;N/A;SIM;NÃO;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+379;AGI-D202-0001;Vórtex Digital;D202;B06;Termo Scientific;88882010;N9CT82010029;EM USO;;;ADQUIRIDO;N/A;SIM;NÃO;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+380;AGI-D202-0002;Vórtex Digital;D202;B06;Termo Scientific;88882010;N9CT82010030;EM USO;;;ADQUIRIDO;N/A;SIM;NÃO;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+381;AGI-D202-0003;Vórtex Digital;D202;B06;Termo Scientific;88882010;N9CT82010036;EM USO;;;ADQUIRIDO;N/A;SIM;NÃO;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+382;AGI-N119-0003;Vórtex Digital;N119;B06;Termo Scientific;88882010;N9CT82010039;EM USO;;;ADQUIRIDO;N/A;SIM;NÃO;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+383;AGI-N119-0004;Vórtex Digital;N119;B06;Termo Scientific;88882010;N9CT82010042;EM USO;;;ADQUIRIDO;N/A;SIM;NÃO;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+384;AGI-N119-0005;Vórtex Digital;N119;B06;Termo Scientific;88882010;N9CT82010044;EM USO;;;ADQUIRIDO;N/A;SIM;NÃO;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+385;AGI-N119-0006;Vórtex Digital;N119;B06;Termo Scientific;88882010;N9CT82010045;EM USO;;;ADQUIRIDO;N/A;SIM;NÃO;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+386;AGI-N311-0003;Vórtex Digital;N311;B06;Termo Scientific;88882010;N9CT82010053;EM USO;;;ADQUIRIDO;N/A;SIM;NÃO;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+387;AGI-N311-0004;Vórtex Digital;N311;B06;Termo Scientific;88882010;N9CT82010113;EM USO;;;ADQUIRIDO;N/A;SIM;NÃO;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+388;AGI-N311-0005;Vórtex Digital;N311;B06;Termo Scientific;88882010;N9CT82010117;EM USO;;;ADQUIRIDO;N/A;SIM;NÃO;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+389;AGI-N311-0006;Vórtex Digital;N311;B06;Termo Scientific;88882010;N9CT82010300;EM USO;;;ADQUIRIDO;N/A;SIM;NÃO;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+390;THD-400-007;Termohigrômetro Digital;N125;B06;Instrutemp;ITHT2250;14048;EM USO;Amostras de retenção;SIM;EMPRESTADO;N/A;NÃO;SIM;NÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
