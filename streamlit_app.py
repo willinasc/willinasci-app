@@ -13,6 +13,6 @@ with st.sidebar.title("Menu"):
 st.file_uploader("Pesquisar arquivo")
 st.divider()
 df = pd.read_csv("equipamentos.csv", sep=";")
-df = df[["TAG"], ["DESCRIÇÃO"], ["MARCA"], ["STATUS DE USO"], ["MANUTENÇÃO"], ["CALIBRAÇÃO"], ["QUALIFICAÇÃO"]]
+df = df["TAG", "DESCRIÇÃO", "MARCA", "STATUS DE USO", "MANUTENÇÃO", "CALIBRAÇÃO", "QUALIFICAÇÃO"]
 st.write(df)
 
