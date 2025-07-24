@@ -10,7 +10,10 @@ with st.sidebar.title("Menu"):
     b2 = st.button("Manutenção")
     b3 = st.button("Calibração")
     b4 = st.button("Qualificação")
-    print(b1, b2, b3, b4)
+    print(b1)
+    print(b2)
+    print(b3)
+    print(b4)
 st.file_uploader("Pesquisar arquivo")
 st.divider()
 
