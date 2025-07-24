@@ -9,13 +9,15 @@ st.info(
 )
 with st.sidebar.title("Menu"):
     st.selectbox('Selecione', ["Equipamentos","Manutenção","Calibração","Qualificação"])
-   
+    month = st.sidebar.selectbox("Mês", df["Month"].unique())
+df_filtered = df[df["Month"] == month]
        
 st.file_uploader("Pesquisar arquivo")
 st.divider()
 df = pd.read_csv("equipamentos.csv", sep=";")
 df = df[["TAG", "DESCRIÇÃO", "MARCA", "STATUS DE USO", "MANUTENÇÃO", "CALIBRAÇÃO", "QUALIFICAÇÃO"]]
-
+Equipamentos = st.sidebar.selectbox("selecione", df["DESCRIÇÃO"].unique())
+df_filtered = df[df["DESCRIÇÃO"] == Equipamentos]
 st.write(df)
 
 
