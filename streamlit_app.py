@@ -19,12 +19,12 @@ st.dataframe(df_filtered)
 
 col1, col2, col3, col4 = st.columns(4)
 
-    with col1:
-        st.metric(df["MANUTENÇÃO"].value_counts)
-    with col2:
-        st.metric(df["CALIBRAÇÃO"].value_counts)
-    with col3:
-        st.metric(df["QUALIFICAÇÃO"].value_counts)
-    with col4:
-        st.metric(df["MARCA"].value_counts)
+with col1:
+    st.metric(df["MANUTENÇÃO"].value_counts)
+with col2:
+    st.metric(df["CALIBRAÇÃO"].value_counts)
+with col3:
+    st.metric(df["QUALIFICAÇÃO"].value_counts)
+with col4:
+    st.metric(df["MARCA"].value_counts)
 
