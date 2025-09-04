@@ -18,7 +18,8 @@ df_filtered = df[df["DESCRIÇÃO"] == Equipamentos]
 st.dataframe(df_filtered)
 
 
-col1, col2, col3, col4 = st.columns(4)
+col1, col2 = st.columns(2)
+col3, col4 = st.columns(2)
 
 with col1:
     st.bar_chart(df["MANUTENÇÃO"].value_counts())
