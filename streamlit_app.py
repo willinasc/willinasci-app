@@ -22,11 +22,11 @@ col1, col2 = st.columns(2)
 col3, col4 = st.columns(2)
 
 with col1:
-    st.bar_chart(df["MANUTENÇÃO"].value_counts(), x="Equipamentos com Manutenção", y="Quantidade")
+    st.bar_chart(df["MANUTENÇÃO"].value_counts())
 with col2:
-    st.bar_chart(df["CALIBRAÇÃO"].value_counts(), x="Equipamentos Calibrados", y="Quantidade")
+    st.bar_chart(df["CALIBRAÇÃO"].value_counts())
 with col3:
-    st.bar_chart(df["QUALIFICAÇÃO"].value_counts(), x="Equipamentos Qualificados", y="Quantidade")
+    st.bar_chart(df["QUALIFICAÇÃO"].value_counts())
 with col4:
-    st.bar_chart(df["MARCA"].value_counts(), x="Contratos firmados", y="Quantidade")
+    st.bar_chart(df["MARCA"].value_counts())
 
