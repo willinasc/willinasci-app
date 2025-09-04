@@ -13,9 +13,9 @@ st.file_uploader("Pesquisar arquivo")
 st.divider()
 df = pd.read_csv("equipamentos.csv", sep=";")
 df = df[["TAG", "DESCRIÇÃO", "MARCA", "STATUS DE USO", "MANUTENÇÃO", "CALIBRAÇÃO", "QUALIFICAÇÃO"]]
-Equipamentos = st.sidebar.selectbox("Equipamentos", df["DESCRIÇÃO"].unique())
+Equipamentos = st.sidebar.selectbox("Equipamentos", df["DESCRIÇÃO"].unique(), index=None)
 df_filtered = df[df["DESCRIÇÃO"] == Equipamentos]
-st.dataframe(df_filtered, hide_index=None)
+st.dataframe(df_filtered)
 
 
 col1, col2 = st.columns(2)
