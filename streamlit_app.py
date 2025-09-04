@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import matplotlib.pyplot as plt
 
 st.title("🎈 Gestão de Equipamentos Controle de Qualidade")
 st.set_page_config(layout="wide")
