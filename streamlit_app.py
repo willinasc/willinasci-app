@@ -21,11 +21,11 @@ st.dataframe(df_filtered)
 col1, col2, col3, col4 = st.columns(4)
 
 with col1:
-    st.bar_chart(value=df["MANUTENÇÃO"].value_counts())
+    st.bar_chart(df["MANUTENÇÃO"].value_counts())
 with col2:
-    st.bar_chart(value=df["CALIBRAÇÃO"].value_counts())
+    st.bar_chart(df["CALIBRAÇÃO"].value_counts())
 with col3:
-    st.bar_chart(value=df["QUALIFICAÇÃO"].value_counts())
+    st.bar_chart(df["QUALIFICAÇÃO"].value_counts())
 with col4:
-    st.bar_chart(value=df["MARCA"].value_counts())
+    st.bar_chart(df["MARCA"].value_counts())
 
