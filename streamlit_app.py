@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import openpyxl
+import seaborn
 
 st.title("🎈 Gestão de Equipamentos Controle de Qualidade")
 st.set_page_config(layout="wide")
