@@ -9,7 +9,11 @@ st.info(
     "Acompanhamento das Manutenções, Calibrações e Qualificaçoes dos Equipamentos"
 )
           
-st.file_uploader("Pesquisar arquivo")
+arquivo = st.file_uploader("Pesquisar arquivo")
+
+df = pd.read_excel('arquivo', sheet_name='LISTA MESTRA DE EQUIPAMENTOS', engine="openpyxl", nrows=301, usecols="A:W")
+print(df)
+
 st.divider()
 df = pd.read_csv("equipamentos.csv", sep=";")
 df = df[["TAG", "DESCRIÇÃO", "MARCA", "STATUS DE USO", "MANUTENÇÃO", "CALIBRAÇÃO", "QUALIFICAÇÃO"]]
