@@ -17,10 +17,11 @@ if arquivo:
     df
     #df.groupby('STATUS DE USO').size().plot(kind='barh', color=sns.palettes.mpl_palette('Dark2'))
     #plt.gca().spines[['top', 'right',]].set_visible(False)
-    df.groupby('STATUS DE USO').size().sort_values(ascending=False).plot.bar(figsize=(7,5), color=['DarkCyan'])
-    plt.xlabel('Estado')
+    df.groupby(['STATUS DE USO', 'classificacao']).size().unstack().plot(kind='bar', stacked=True)
+    plt.xlabel('STATUS DE USO')
     plt.ylabel('Contagem')
-    plt.title('Contagem de Ocorrências por Estado')
+    plt.title('Contagem de Ocorrências por UF e Classificação')
+    plt.legend(title='Classificação')
     plt.show()
 st.divider()
 
