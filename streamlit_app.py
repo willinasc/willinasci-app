@@ -11,8 +11,8 @@ st.info(
           
 arquivo = st.file_uploader("Pesquisar arquivo")
 
-df = pd.read_excel('arquivo', sheet_name='LISTA MESTRA DE EQUIPAMENTOS', engine="openpyxl", nrows=301, usecols="A:W")
-print(df)
+    if df = pd.read_excel('arquivo', sheet_name='LISTA MESTRA DE EQUIPAMENTOS', engine="openpyxl", nrows=301, usecols="A:W")
+    print(df)
 
 st.divider()
 df = pd.read_csv("equipamentos.csv", sep=";")
