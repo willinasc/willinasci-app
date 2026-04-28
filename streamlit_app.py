@@ -13,7 +13,7 @@ st.info(
           
 arquivo = st.file_uploader("Pesquisar arquivo")
 if arquivo:
-    df = pd.read_excel(arquivo, sheet_name='LISTA MESTRA DE EQUIPAMENTOS', engine="openpyxl", nrows=301, usecols="A:W")
+    df = pd.read_excel(arquivo, sheet_name='LISTA MESTRA DE EQUIPAMENTOS', header = 1, engine="openpyxl", nrows=301, usecols="A:W")
     df
     df.groupby('STATUS DE USO').size().plot(kind='barh', color=sns.palettes.mpl_palette('Dark2'))
     plt.gca().spines[['top', 'right',]].set_visible(False)
