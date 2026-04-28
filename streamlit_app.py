@@ -16,13 +16,13 @@ if arquivo:
     df = pd.read_excel(arquivo, sheet_name='LISTA MESTRA DE EQUIPAMENTOS', header = 1, engine="openpyxl", nrows=301, usecols="A:W")
     df
     col1 = st.columns(1)
-
-    col1 = df.groupby(['STATUS DE USO']).size().plot.barh(figsize=(7,5), color=['skyblue'])
-    plt.xlabel('Contagem')
-    plt.ylabel('Classificação')
-    plt.title('Contagem de Ocorrências por Classificação')
-    plt.show()
-    st.write(col1)
+    with col1:
+        df.groupby(['STATUS DE USO']).size().plot.barh(figsize=(7,5), color=['skyblue'])
+        plt.xlabel('Contagem')
+        plt.ylabel('Classificação')
+        plt.title('Contagem de Ocorrências por Classificação')
+        plt.show()
+   
 st.divider()
 
 df = pd.read_csv("equipamentos.csv", sep=";")
