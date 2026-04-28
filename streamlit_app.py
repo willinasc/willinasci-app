@@ -17,7 +17,7 @@ if arquivo:
     df
     df.groupby('STATUS DE USO').size().plot(kind='barh', color=sns.palettes.mpl_palette('Dark2'))
     plt.gca().spines[['top', 'right',]].set_visible(False)
-    plt.show()
+    
 st.divider()
 
 df = pd.read_csv("equipamentos.csv", sep=";")
