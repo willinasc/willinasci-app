@@ -22,7 +22,7 @@ if arquivo:
     plt.ylabel('Classificação')
     plt.title('Contagem de Ocorrências por Classificação')
     plt.show()
-    st.write(col1)
+st.write(col1)
 st.divider()
 
 df = pd.read_csv("equipamentos.csv", sep=";")
