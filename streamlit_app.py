@@ -17,7 +17,7 @@ Equipamentos = st.sidebar.selectbox("Equipamentos", df["DESCRIÇÃO"].unique(), 
 df_filtered = df[df["DESCRIÇÃO"] == Equipamentos]
 st.dataframe(df_filtered)
 
-
+'''
 col1, col2 = st.columns(2)
 col3, col4 = st.columns(2)
 
@@ -30,3 +30,4 @@ with col3:
 with col4:
     st.bar_chart(df["MARCA"].value_counts())
 
+'''
