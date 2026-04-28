@@ -10,8 +10,8 @@ st.info(
 )
           
 arquivo = st.file_uploader("Pesquisar arquivo")
-
-    if df = pd.read_excel('arquivo', sheet_name='LISTA MESTRA DE EQUIPAMENTOS', engine="openpyxl", nrows=301, usecols="A:W")
+    if arquivo:
+    df = pd.read_excel('arquivo', sheet_name='LISTA MESTRA DE EQUIPAMENTOS', engine="openpyxl", nrows=301, usecols="A:W")
     print(df)
 
 st.divider()
