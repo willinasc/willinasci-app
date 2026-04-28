@@ -15,9 +15,13 @@ arquivo = st.file_uploader("Pesquisar arquivo")
 if arquivo:
     df = pd.read_excel(arquivo, sheet_name='LISTA MESTRA DE EQUIPAMENTOS', header = 1, engine="openpyxl", nrows=301, usecols="A:W")
     df
-    df.groupby('STATUS DE USO').size().plot(kind='barh', color=sns.palettes.mpl_palette('Dark2'))
-    plt.gca().spines[['top', 'right',]].set_visible(False)
-    
+    #df.groupby('STATUS DE USO').size().plot(kind='barh', color=sns.palettes.mpl_palette('Dark2'))
+    #plt.gca().spines[['top', 'right',]].set_visible(False)
+df.groupby('STATUS DE USO').size().sort_values(ascending=False).plot.bar(figsize=(7,5), color=['DarkCyan'])
+plt.xlabel('Estado')
+plt.ylabel('Contagem')
+plt.title('Contagem de Ocorrências por Estado')
+plt.show()
 st.divider()
 
 df = pd.read_csv("equipamentos.csv", sep=";")
