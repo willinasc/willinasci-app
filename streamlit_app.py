@@ -17,11 +17,11 @@ if arquivo:
     df
     #df.groupby('STATUS DE USO').size().plot(kind='barh', color=sns.palettes.mpl_palette('Dark2'))
     #plt.gca().spines[['top', 'right',]].set_visible(False)
-df.groupby('STATUS DE USO').size().sort_values(ascending=False).plot.bar(figsize=(7,5), color=['DarkCyan'])
-plt.xlabel('Estado')
-plt.ylabel('Contagem')
-plt.title('Contagem de Ocorrências por Estado')
-plt.show()
+    df.groupby('STATUS DE USO').size().sort_values(ascending=False).plot.bar(figsize=(7,5), color=['DarkCyan'])
+    plt.xlabel('Estado')
+    plt.ylabel('Contagem')
+    plt.title('Contagem de Ocorrências por Estado')
+    plt.show()
 st.divider()
 
 df = pd.read_csv("equipamentos.csv", sep=";")
